@@ -1,10 +1,10 @@
 import json
 
 # JSON dosyasını açma ve içeriği okuma
-with open('Dataset/soru-cevap.json', 'r', encoding='utf-8') as file:
+with open('Datasets/q&a_dataset.json', 'r', encoding='utf-8') as file:
     data = json.load(file)
 
-with open('Dataset/ekstra-dokumanlar.json', 'r', encoding='utf-8') as file:
+with open('Datasets/extra_docs.json', 'r', encoding='utf-8') as file:
     extra = json.load(file)
 
 document_ids = [doc['document_id'] for doc in data if 'document_id' in doc]
