@@ -188,7 +188,7 @@
             },
             {
                 "question_id": "q3",
-                "question_text": "Peyami safa annesine yardım edebilmek için nerede çalışmaya başladı?",
+                "question_text": "Annesine yardım edebilmek için nerede çalışmaya başladı?",
                 "answer": "Posta ve Telgraf Nezâreti",
                 "answer_location": {
                     "start": 4008,
@@ -221,7 +221,7 @@
             },
             {
                 "question_id": "q3",
-                "question_text": "Thales'in bıraktığı söylenilen eserin adı nedir?",
+                "question_text": "Günümüze bıraktığı söylenilen eserin adı nedir?",
                 "answer": "Gündoğumu ve Ekinos Üzerine",
                 "answer_location": {
                     "start": 2314,
@@ -236,7 +236,7 @@
         "questions": [
             {
                 "question_id": "q1",
-                "question_text": "Evrim Ağacı kimin öncülüğünde kurulmuştur?",
+                "question_text": "Kimin öncülüğünde kurulmuştur?",
                 "answer": "Çağrı Mert Bakırcı",
                 "answer_location": {
                     "start": 44,
@@ -245,7 +245,7 @@
             },
             {
                 "question_id": "q2",
-                "question_text": "Evrim Ağacı hangi cemiyet tarafından maddi ve akademik olarak desteklenmektedir?",
+                "question_text": "Hangi cemiyet tarafından maddi ve akademik olarak desteklenmektedir?",
                 "answer": "Avrupa Evrimsel Biyoloji Cemiyeti",
                 "answer_location": {
                     "start": 749,
@@ -254,7 +254,7 @@
             },
             {
                 "question_id": "q3",
-                "question_text": "Evrim Ağacı'nın resmi sitesi evrimagaci.org ne zaman açılmıştır?",
+                "question_text": "Resmi sitesi evrimagaci.org ne zaman açılmıştır?",
                 "answer": "11 Aralık 2012",
                 "answer_location": {
                     "start": 2489,
@@ -302,7 +302,7 @@
         "questions": [
             {
                 "question_id": "q1",
-                "question_text": "Arap ayaklanması kimin tarafından başlatılmıştır?",
+                "question_text": "Ayaklanma kimin tarafından başlatılmıştır?",
                 "answer": "Şerif Hüseyin bin Ali",
                 "answer_location": {
                     "start": 263,
@@ -368,7 +368,7 @@
         "questions": [
             {
                 "question_id": "q1",
-                "question_text": "Discord uygulamasının aylık kaç aktif kullanıcısı vardır?",
+                "question_text": "Uygulamanın aylık kaç aktif kullanıcısı vardır?",
                 "answer": "140 milyon",
                 "answer_location": {
                     "start": 174,
@@ -419,7 +419,7 @@
             },
             {
                 "question_id": "q3",
-                "question_text": "Nvidia'nın birden çok GPU'nun bir arada kullanılmasını sağlayan teknolojisinin adı nedir?",
+                "question_text": "Birden çok GPU'nun bir arada kullanılmasını sağlayan teknolojinin adı nedir?",
                 "answer": "SLI",
                 "answer_location": {
                     "start": 3381,
@@ -533,7 +533,7 @@
         "questions": [
             {
                 "question_id": "q1",
-                "question_text": "Cristhoper Nolan'ın kaç Oscar adaylığı vardır?",
+                "question_text": "Kaç Oscar adaylığı vardır?",
                 "answer": "36",
                 "answer_location": {
                     "start": 212,
@@ -608,7 +608,7 @@
             },
             {
                 "question_id": "q2",
-                "question_text": "Elon Musk'ın birlikte bir web yazılım şirketi kurduğu kardeşinin adı nedir?",
+                "question_text": "Birlikte bir web yazılım şirketi kurduğu kardeşinin adı nedir?",
                 "answer": "Kimbal Musk",
                 "answer_location": {
                     "start": 1303,
@@ -617,7 +617,7 @@
             },
             {
                 "question_id": "q3",
-                "question_text": "Twitter 25 Nisan 2022 tarihinde kaç dolara satıldı?",
+                "question_text": "25 Nisan 2022 tarihinde kaç dolara satıldı?",
                 "answer": "128.000",
                 "answer_location": {
                     "start": 3772,
@@ -641,7 +641,7 @@
             },
             {
                 "question_id": "q2",
-                "question_text": "İlk Youtube videosunun ismi nedir?",
+                "question_text": "Yayınlanan ilk videonun ismi nedir?",
                 "answer": "Me at the zoo",
                 "answer_location": {
                     "start": 3116,
@@ -650,7 +650,7 @@
             },
             {
                 "question_id": "q3",
-                "question_text": "Youtube'da günlük yaklaşık kaç milyon video klip izlenmektedir?",
+                "question_text": "Günlük yaklaşık kaç milyon video klip izlenmektedir?",
                 "answer": "100 milyon",
                 "answer_location": {
                     "start": 5472,
@@ -665,7 +665,7 @@
         "questions": [
             {
                 "question_id": "q1",
-                "question_text": "Bugatti kim tarafından kuruldu?",
+                "question_text": "Bugatti kimin tarafından kuruldu?",
                 "answer": "Ettore Bugatti",
                 "answer_location": {
                     "start": 201,
@@ -688,6 +688,303 @@
                 "answer_location": {
                     "start": 4633,
                     "end": 4657
+                }
+            }
+        ]
+    },
+    {
+        "document_id": 93,
+        "document_text": "Coca-Cola, Amerika Birleşik Devletleri kökenli, karamelize şekerle tatlandırılmış, alkolsüz içecek markası. Dünyada en fazla tüketilen meşrubat olan Coca-Cola uluslararası araştırma ajansı Interbrandin sıralamasında 2005-2016 yılında dünyanın en pahalı markası olarak tanındı. Coca-Cola ve çeşitli alkolsüz içecek markalarının sahibi, merkezi ABD'nin Georgia Eyaleti'nde, Atlanta şehrinde bulunan çok uluslu şirket The Coca-Cola Company'dir. Markanın adı Kola fındığı, kafein kaynağı ve koka yaprakları isimlerinin birleşmesinden oluşmuştur. Coca-Cola'da kullanılan malzeme ve kimyasal ürünlerin yayınlanmış olmasına rağmen Coca-Cola'nın formülü bugüne kadar ticari sır olarak kalmıştır. 1886'da kurulan şirketin hisseleri, New York Borsası'nda KO kısaltması ile işlem görür. Şirket daha sonra dünya çapında 200'den fazla ülkede lisanslı Coca-Cola ürünleri, şişeleme, filtrelenmiş su, tatlandırıcılar ve konsantreleri üretmektedir. The Coca-Cola Company ayrıca büyük restoran ve gıda hizmeti dağıtıcılara konsantre satmaktadır. Coca-Cola'nın mucidi 1886 yılında onun ilk formülünü yaratan John S. Pemberton'dur. Amerikan İç Savaşında albay gibi hizmet eden ve yaralanan Pemberton morfin bağımlısı idi ve tehlikeli olmasına rağmen afyon bulmaya çalışıyordu. Columbus'ta kimyager ve eczacı olarak çalışan Pemperton'un aklına kokainli şarap yapmak geldi. Kendi özel geliştirdiği formül ve karışımlarla Pemberton French Wine Coca’yı 1885 yılında icat etti. Kola özütü, şarap ve koka yaprağı karışımından oluşan ürününü bir yıl sonra piyasaya sürdü. Fakat Atlanta yasaları nedeniyle üründe kullanılan kokain yaprağı ve alkol başına dert oldu. Bu yüzden bu işi bırakmak zorunda kalan John 8 Mayıs 1886 yılında Atlanta'da pirinç bir çaydanlıkta serinletici alkolsüz bir şurup yaptı. Karbonatlı su ile karıştırdığı şurubu dostlarına ikram etti. Bu yeni şurup öylesine beğenildi ki, Pemberton eczanesinin bahçesinde bardağı 5 cent’ten satışa sundu. Pembertonun ortağı Frank Robinson ürüne Coca Cola adını verdi Coca-Cola’nın bugüne kadar değişmeden gelen logosunu yarattı. 29 Mayıs 1886 tarihinde ilk Coca-Cola reklamı The Atlanta Journal’da yayınlandı. İlanda kullanılan slogan 'Nefis ve Serinletici' idi. 1888 tarihinde piyasada Coca-Cola'nın 3 versiyonu satılıyordu, Pemberton ve 4 iş insanı: J. C. Mayfield, A.O. Murphey, C.O. Mullahy ve E.H. Bloodworth tarafından anlaşmasız bir ortaklık kurulmuştu. Bundan sonra Coca-Cola'nın yöneticiliği ve telif hakları konusunda sayısız hesapsız tartışmalar ve çatışmalar meydana çıktı. 24 Mart 1888 tarihinde Coca-Cola şirketinin resmi hissedarları John'un oğlu Charley Pemberton ve Woolfolk Walker, kız kardeşi Margaret Dozier ve Fulton County mahkemesinin kararı ile Asa Griggs Candler oldu. Amma Candler ve Walkerle Charley Pembertonla aralarında anlaşılmazlık yaşandı. Bu çatışmaya sebep John Pembertonun imzaladığı tek hakların uygulanmasına ilişkin belgeye attığı imzayı unutması idi. Sonra ise Charley Pemberton'un Coca-Cola'nın en büyük hissesine sahip olması, bu şirket oluşturulurken babasının sahip olduğu paydan kaynaklanmıştır. Bundan sonra rekabet esasen iki taraf arasında Charley Pemberton ve Asa Candlerin oğlu Charles Candler'in arasında daha keskin karakter almıştır. 1888 yılı 16 Ağustos'ta Pemperton öldü ve Asa Griggs Candler 1891 yılında Cahrley Pemberton'a ait hissenin üçte birlik bölümünü, Walker hissenin yüzde 50 hissesini, Coca Cola’nın haklarını ve reçetesini 2300 dolar karşılığında satın aldı. 1892 yılında The Coca-Cola Company adıyla sermayesi 100.000 dolar olarak anonim şirket kuruldu. Bu, Coca-Cola tarihinde dönüm noktası oldu ve bundan sonra Coca-Colanın geniş çaplı üretimine başlandı. Asa Candler'e türlü yolla engel olmaya çalışan Charley Pemberton 23 Haziran 1894 yılında 40 yaşında afyon bağımlılığından Atlanta Grady Hastanesinde öldü. 1892 yılında Asa Candler The Coca-Cola Company şirketini kurdu ve ürünü geliştirmek için çaba sarf etmeye başladı. 12 Mart 1894 tarihinde Coca-Cola ilk kez şişede satılmaya başlandı. Büyük çaplı şişeleme yöntemine ise 5 yıl sonra geçildi. İlk reklam banneri 1894 yılında Georgia eyaletinin Kartersvil kentinde hazırlanarak asıldı. Candler reklam kampanyalarıyla Coca-Cola'yı ABD'nin tümüne yaymaya çalıştı. Şirketi, o dönemde çok sevilen bir yöntem olan parasız kupon dağıtma uygulamasına geçti. Kuponu getiren müşteriye bir bardak Cola parasız veriliyordu. Candler hedefine 1895'te erişti. Coca-Cola ABD'nin bütün federal eyaletlerinde satıştaydı. Meşrubat şişeleme ve satış hakları 1899’da 1$’a Chattanooga, Tennessee'den olan Benjamin F. Thomas ve Joseph B. Whitehead tarafından Candler’dan alınmıştır. 1905 yılına kadar Coca Cola ürünlerinde kokanın kullanılması ve uyuşturucu bağımlılığına sebep olduğu konusundaki tepkilerin artması sonucunda şirket geri adım attı; içeriği 1905′te hafif değiştirildi ve içeriğinde bulunan kokain elementleri tamamen çıkartıldı.",
+        "questions": [
+            {
+                "question_id": "q1",
+                "question_text": "Dünyada en çok tüketilen gazlı içecek markası nedir?",
+                "answer": "Coca-Cola",
+                "answer_location": {
+                    "start": 149,
+                    "end": 159
+                }
+            },
+            {
+                "question_id": "q2",
+                "question_text": "En meşhur gazlı içecek markasının ilk reklamındaki sloganı neydi?",
+                "answer": "Nefis ve Serinletici",
+                "answer_location": {
+                    "start": 2171,
+                    "end": 2192
+                }
+            },
+            {
+                "question_id": "q3",
+                "question_text": "Eskiden içeriğinde kokain de bulunan meşrubat markası nedir?",
+                "answer": "Coca-Cola",
+                "answer_location": {
+                    "start": 4640,
+                    "end": 4792
+                }
+            }
+        ]
+    },
+    {
+        "document_id": 94,
+        "document_text": "sahibinden.com, gayrimenkul, vasıta, alışveriş ürünleri ve hizmetler gibi birçok kategoride ilan ve e-ticaret işlemlerinin yapıldığı online bir platformdur. Üye olmak ve her kategoride yılda bir ilan paylaşmak ücretsizdir. Bir sonraki ilanı aynı kategoride ve aynı yılda koymak için ücret vermek gerekmektedir. 1990'lı yılların sonlarında Türkiye'deki İnternet girişimciliği henüz gelişmeye başlarken ilanlar geleneksel medyada özellikle de günlük gazeteler gibi mecralarda yayınlanıyordu. Bu dönemde sahibinden.com’un kurucusu ve Aksoy Grup Yönetim Kurulu Başkan Yardımcısı Taner Aksoy, 1999 yılında İnternet üzerinden satıcılara görsel unsurlar da içeren detaylı ilan verme olanağı sağlayan, diğer yandan alıcılar için ilanların kolay aranmasını sağlayan bir site fikrini oluşturdu. Sonuç olarak sahibinden.com, 2000 yılında 2.700 ilanla yayın hayatına başladı. Aralık 2010 itibarıyla, vasıta, cep telefonu, gayrimenkul ve ayakkabı gibi birçok farklı kategoriden oluşan ilan ağında 2.000.000 ilan bulunmaktadır. 2009 yılında Türkiye'deki 5 bölge müdürlüğü olan Ankara, İzmir, Antalya, Trabzon ve Adana'daki ofisleri açılmıştır. Merkezi İstanbul'da bulunmaktadır. sahibinden.com hâlen Aksoy Group bünyesindedir. sahibinden.com 2009 Altın Örümcek Web Ödülleri'nde 'En İyi E-ticaret' ve 'En İyi Seri İlan' kategorilerinde ödüle layık görülmüştür. 2010'da, Deloitte Fest500 sıralamasında, 5 yılda %2394'lük büyümesiyle Türkiye'nin en hızlı büyüyen 3. teknoloji şirketi olarak gösterilmiştir. Ipsos KMG tarafından yapılan 2010 yılının Dijital Lovemarkları Araştırması'na göre sahibinden.com, Türkiye'de en çok sevilen otomotiv sitesi, en çok sevilen emlak sitesi, ve en çok sevilen ikinci el ürün sitesi olarak belirlendi. 2009 yılında Türkiye'de BRNDTRX tarafından yapılan bir araştırmaya göre sahibinden.com, en çok beğenilen gayrimenkul sitesi, en çok güven uyandıran gayrimenkul sitesi ve ilk akla gelen gayrimenkul sitesidir. Crenvo araştırmasına göre ise, 2009 yılında Türkiye'de, kullanıcıların %52’si seri ilanlar sitesi olarak sahibinden.com’u tercih ettiğini belirtti. sahibinden.com 2009 yılında 'En İyi e-Ticaret Sitesi' ve 'En İyi Seri İlan Sitesi' seçilerek Altın Örümcek ödüllerini de kazandı. Sahibinden.com'a Türkiye dışından erişim için kullanıcı hesabına giriş yapmak gerekmektedir. Giriş yapılmadığı takdirde site içeriğini görüntülemek mümkün olamamaktadır. Ancak Türkiye'deki bir VPN sunucusuna bağlanmak gibi alternatif yöntemler sayesinde yurtdışından da kullanıcı hesabına giriş yapmaksızın site içeriği görüntülenebilmektedir.",
+        "questions": [
+            {
+                "question_id": "q1",
+                "question_text": "Türkiye'de araç satışının yapıldığı en ünlü online platform hangisidir?",
+                "answer": "sahibinden.com",
+                "answer_location": {
+                    "start": 1,
+                    "end": 15
+                }
+            },
+            {
+                "question_id": "q2",
+                "question_text": "2010'daki sıralamaya göre 5 yılda yüzde kaç büyümüştür?",
+                "answer": "%2394",
+                "answer_location": {
+                    "start": 1395,
+                    "end": 1401
+                }
+            },
+            {
+                "question_id": "q3",
+                "question_text": "Günümüzün en ünlü ilan sitesi hangi tarihte kuruldu?",
+                "answer": "2000",
+                "answer_location": {
+                    "start": 815,
+                    "end": 827
+                }
+            }
+        ]
+    },
+    {
+        "document_id": 301,
+        "document_text": "Adolf Hitler, Avusturya doğumlu Alman politikacı ve Nasyonal Sosyalist Alman İşçi Partisi lideridir. 20. yüzyılın en güçlü ve nüfuzlu diktatörlerinden biri olarak kabul edilir. 1919’da Alman İşçi Partisine (Deutsche Arbeiterpartei; DAP) üye olmasıyla başlayan politik yaşamı, bu partinin 1920’de Nasyonal Sosyalist Alman İşçi Partisine (Nationalsozialistische Deutsche Arbeiterpartei; NSDAP) dönüşmesiyle devam etti ve 1921’de parti başkanlığına yükseldi. Hitler’in Şansölye seçilmesi için önündeki engel 1925’ten 1932’ye kadar vatansız statüde olmasıydı. Bu engeli kaldırmak adına, dönemin İçişleri Bakanı ve aynı zamanda Thule Cemiyetinin üyelerinden olan Bakan Dietrich Klagges’in yaptığı atamayla, Berlin’de bulunan Brunswick temsilciliğine atanarak devlet memuru statüsü kazandı ve Alman vatandaşlığına geçti. 1933’te, ülkede kurulan yeni koalisyon hükûmetinin başkanlığına atanmasıyla Şansölye (Reichskanzler) oldu. 1934’te, Cumhurbaşkanı’nın (Reichspräsident) makamını devraldı ve Führer (Lider) adında bir devlet başkanlığı makamı yarattı; devlet ve hükûmet başkanlıklarını Führer und Reichskanzler unvanını kullanarak bir arada yürüttü. Diktatörlüğü 30 Nisan 1945’te intihar etmesiyle son buldu. 1 Eylül 1939’da Polonya Seferi ile Avrupa’da II. Dünya Savaşı’nı başlattı. Savaş boyunca askeri operasyonlarla yakından ilgilendi ve Holokost’un sürdürülmesinin merkezinde yer aldı. Hitler, Almanya’da I. Dünya Savaşı sonrasında yaşanan Büyük Buhran’dan güç kazandı. Propaganda ve etkileyici bir dille, alt ve orta tabakanın ekonomik istemlerine ümit veriyordu; bunun yanında da belli bir seviyede milliyetçilik, Nazilerce yeniden tanımlanan sosyalizm, antisemitizm ve anti-komünizm de sunuyordu. Ekonominin tekrar kurulması, yeniden silahlandırılmış bir ordu, totaliter ve faşist bir rejimle; Hitler Almanya içerisindeki düzeni yeniden tesis etti ve güçlü bir ülke yarattıktan sonra, saldırgan bir dış politika izleyerek Alman 'yaşam alanı'nı (Lebensraum) genişletmek amacıyla Polonya’ya saldırdı. Yıldırım savaşı (Blitzkrieg) taktikleri ve Mihver Devletleri ittifakı ile birlikte Avrupa’nın büyük bölümünü, Asya’nın ve Afrika’nın bir bölümünü işgal etti. ABD’nin II. Dünya Savaşı’na Müttefikler’in tarafında katılması ve Kızıl Ordu’nun ilerlemesi ile Alman ordusu gerilemeye başladı. Sovyet güçlerinin 23 Nisan 1945’te Berlin’e girmesi ile Almanya’nın yenilgisi kesinleşmişti. Hitler; işgal altındaki Berlin’de, eşi Eva Hitler (Eva Braun) ile yer altı sığınağında (Führerbunker) 30 Nisan 1945 günü intihar etti. Cesedi, vasiyeti üzerine takipçileri tarafından yakıldı. Alfred Jodl’ın 7 Mayıs 1945’te imzalayıp ertesi gün yürürlüğe giren teslim belgesiyle Büyük Alman İmparatorluğu son buldu. Hitler’in saldırgan dış politikası, Avrupa’da II. Dünya Savaşı’nın patlak vermesinin ana nedeni olarak kabul edilir. Onun Yahudi karşıtı politikaları ve ırkçı ideolojisi, aşağı ırk mensubu olarak gördüğü en az 5,5 milyon insanın ölümüne neden oldu. Hitler'in babası Alois Hitler (1837-1903), Maria Anna Schicklgruber'in gayri meşru çocuğuydu. Vaftiz kaydı babasının adını göstermiyordu ve Alois başlangıçta annesinin soyadı olan 'Schicklgruber'ı taşıyordu. 1842'de Johann Georg Hiedler, Alois'in annesiyle evlendi. Alois, Hiedler'in erkek kardeşi Johann Nepomuk Hiedler'in ailesinde büyüdü. 1876'da Alois'in vaftiz kaydı bir rahip tarafından Johann Georg Hiedler'i Alois'in babası olarak kaydetmek üzere şerh edildi ('Georg Hitler' olarak kaydedildi). Alois daha sonra 'Hitler' soyadını aldı ('Hiedler', 'Hüttler' veya 'Huettler' olarak da yazılır). Bu isim muhtemelen Almanca hütte ('kulübe') kelimesine dayanmaktadır ve muhtemelen 'kulübede yaşayan kişi' anlamına gelmektedir. Nazi yetkilisi Hans Frank, Alois'in annesinin Steiermark eyaletinin başkenti Graz'da Yahudi bir aile tarafından temizlikçi olarak işe alındığını ve ailenin 19 yaşındaki oğlu Leopold Frankenberger'in Alois'in babası olduğunu öne sürdü. O dönemde Graz'da Frankenberger soyadına sahip biri yoktu ve Leopold Frankenberger'in varlığına dair hiçbir kayıt bulunmadı. Ayrıca, Steiermark'ta Yahudilerin ikamet etmesi yaklaşık 400 yıldır yasadışıydı ve Alois'in doğumundan on yıllar sonrasına kadar yeniden yasal hale gelmedi. Bu nedenle tarihçiler, Alois'in babasının Yahudi olduğu iddiasını reddederler.Adolf Hitler, 20 Nisan 1889 tarihinde Almanların yoğunlukta olduğu Avusturya-Macaristan İmparatorluğu’na bağlı Yukarı Avusturya’nın Braunau am Inn kasabasında o sıralarda gümrük memuru olan Alois Hitler (1837–1903) ve Alois’in üçüncü eşi (aynı zamanda ikinci dereceden kuzenidir ve evlenmek için kiliseden izin alınmıştır.) Klara Pölzl’ün (1860–1907) oğlu olarak doğmuştur. Alois’in altı çocuğundan dördüncüsüdür. Avusturya vatandaşı olarak doğdu.",
+        "questions": [
+            {
+                "question_id": "q1",
+                "question_text": "II. Dünya Savaşı'nı başlatan lider kimdir?",
+                "answer": "Adolf Hitler",
+                "answer_location": {
+                    "start": 1,
+                    "end": 13
+                }
+            },
+            {
+                "question_id": "q2",
+                "question_text": "Polonya seferi ne zaman başlamıştır?",
+                "answer": "1 Eylül 1939'da",
+                "answer_location": {
+                    "start": 1206,
+                    "end": 1221
+                }
+            },
+            {
+                "question_id": "q3",
+                "question_text": "Ölüm sebebi nedir?",
+                "answer": "İntihar etmesi.",
+                "answer_location": {
+                    "start": 2504,
+                    "end": 2517
+                }
+            }
+        ]
+    },
+    {
+        "document_id": 302,
+        "document_text": "I. Dünya Savaşı, 28 Temmuz 1914 tarihinde başlayıp 11 Kasım 1918 tarihinde sona eren Avrupa merkezli küresel bir savaştır. II. Dünya Savaşı'na (1939-1945) kadar Dünya Savaşı veya Büyük Savaş olarak adlandırılmıştır. Savaşın taraflarından biri olan Osmanlı İmparatorluğu'nda 'Genel Savaş' anlamında Harb-i Umumi (Osmanlıca: حرب عمومی), halk arasında ise Seferberlik olarak adlandırılmıştır. 1917'de Amerika Birleşik Devletleri'nin savaşa katılmasına kadar bu savaş ABD basınında Avrupa Savaşı olarak anılmıştır. Savaşan taraflar, çoğunlukla Avrupa, Kafkasya, Amerika, Orta Doğu ve Afrika ile Asya'nın bazı bölgelerinde çatıştılar. O zamanın büyük güçleri, 'İtilaf' ve 'İttifak' adlarıyla iki tarafa ayrılarak savaşta yer almışlardır. İtilaf Devletleri; Birleşik Krallık, Fransa Cumhuriyeti ve Rus İmparatorluğu arasındaki Üçlü İtilaf merkezlidir. İttifak Devletleri; Alman İmparatorluğu, Avusturya-Macaristan İmparatorluğu ve İtalya Krallığı arasındaki Üçlü İttifak merkezlidir; fakat Avusturya-Macaristan anlaşmaya karşı saldırıya geçtiği için İtalya savaşa girmemiştir. Bu ittifaklar yeniden yapılanmış (İtalya, 1915 yılında İtilaf Devletleri’nin tarafına geçmiştir) ve yeni devletlerin savaşa girmesiyle genişlemiştir. Nihayetinde 60 milyon Avrupalı dâhil olmak üzere 70 milyon askerî personel, tarihin en büyük savaşlarından biri olan bu savaş için seferber edilmiştir. Yeni teknolojiler sayesinde silahların öldürücülüğünde görülen muazzam ilerlemeye karşılık, savunma ve hareketlilikte aynı miktarda gelişme olmaması sonucu, savaşa katılan yaklaşık 9 milyon kişi hayatını kaybetmiştir. Böylece bu savaş, dünya tarihindeki en çok zayiat verilen 5. savaş olmuş ve savaşa katılan devletlerde birçok politik değişikliğe ve devrimlere yol açmıştır. Savaşın bir diğer nedeni de, Avrupalı büyük güçler olan Alman İmparatorluğu, Avusturya-Macaristan İmparatorluğu, Osmanlı İmparatorluğu, Rus İmparatorluğu, Birleşik Krallık, İtalya Krallığı ve Fransa Cumhuriyeti'nin uzun zamandır süregelen emperyalist dış politikalarıdır. Avusturya-Macaristan tahtının veliahtı Arşidük Franz Ferdinand’ın 28 Haziran 1914'te Gavrilo Princip adında bir Sırp milliyetçisi tarafından devletin başkenti Saraybosna'da öldürülmesi, savaşı tetikleyen olay olmuştur. Olaydan sonra Avusturya-Macaristan İmparatorluğu, Sırbistan Krallığı'na bir ültimatom göndermiştir. Nihayetinde on yıllardır yapılanmakta olan ittifaklar sisteminin işlemesiyle, birkaç hafta içerisinde Avrupa’nın ana güçleri kendilerini savaşta bulmuşlar ve koloniler yoluyla savaş bütün dünyaya yayılmıştır. Çatışmalar, 28 Temmuz'da Avusturya-Macaristan’ın Sırbistan’ı işgal etmesi ile başlamış ve bunu Almanya’nın Belçika, Lüksemburg ve Fransa’yı işgali ile Rusya'nın Almanya’ya saldırması takip etmiştir. Almanların Paris'e yürüyüşü durma noktasına gelince, Batı cephesindeki çatışmalar durağan bir siper savaşına dönüşmüştür ve bu durum 1917’ye kadar pek değişmemiştir. Doğu cephesinde ise Rus ordusu, Avusturya-Macaristan kuvvetleriyle başarılı bir şekilde savaşmış, fakat Doğu Prusya, Polonya ve Alman ordusu tarafından geri püskürtülmüştür. Osmanlı İmparatorluğu'nun 1914'te, İtalya ve Bulgaristan'ın 1915’te ve Romanya’nın 1916’da savaşa girmesiyle ilave cepheler açılmıştır. Çarlık rejimiyle yönetilen Rusya, 1917'de Bolşevik Devrimi ile yıkılınca savaştan çekilmiştir. 1918'de Batı Cephesi boyunca bir Alman taarruzundan sonra, müttefikler ardı ardına yaptıkları saldırılarla Almanları geri püskürtmüş ve ABD kuvvetleri siperlere girmeye başlamıştır. Bu noktada, başı kendi içindeki devrimcilerle dertte olan Almanya, daha sonra 'Ateşkes Günü' olarak tarihe geçecek olan 11 Kasım 1918’de mütarekeyi kabul etmiştir. Savaş böylece İtilaf Devletleri'nin zaferiyle sona ermiştir. Savaşın tarafları, tüm insan gücü ve ekonomik kaynaklarını bir topyekûn savaş için seferber etmeye çalıştıklarından, sivillerin durumu da cepheler kadar çalkantılı olmuştur. Savaşın sona ermesiyle büyük emperyalist güçlerden dördü olan Almanya, Rusya, Avusturya-Macaristan ve Osmanlı İmparatorlukları tarihe karışmıştır. Bunlardan Alman ve Rus İmparatorluklarının halefleri çok büyük toprak kaybı yaşamış; Avusturya-Macaristan ile Osmanlı İmparatorlukları ise tamamen parçalanmışlardır. Avrupa haritası daha küçük parçalardan oluşacak şekilde yeniden çizilmiştir. Daha sonra bu tarz çatışmaların yaşanmasını önlemesi ümidiyle 10 Ocak 1920'de Milletler Cemiyeti kurulmuştur. Avrupa’da bu savaş sonucunda imparatorlukların yıkılmasıyla milliyetçiliğin yeniden canlanması, Almanya’nın yenilgisinin yan etkileri ve Versay Antlaşması’nın yarattığı problemler, II. Dünya Savaşı’nın çıkmasına katkıda bulunan etkenler olarak kabul edilir.",
+        "questions": [
+            {
+                "question_id": "q1",
+                "question_text": "Dünya savaşında büyük güçlerin ayrıldığı 2 grubun adları nedir?",
+                "answer": "İtilaf ve İttifak",
+                "answer_location": {
+                    "start": 656,
+                    "end": 676
+                }
+            },
+            {
+                "question_id": "q2",
+                "question_text": "Savaşta yaklaşık kaç milyon insan ölmüştür?",
+                "answer": "9",
+                "answer_location": {
+                    "start": 1554,
+                    "end": 1556
+                }
+            },
+            {
+                "question_id": "q3",
+                "question_text": "Savaşı hangi taraf kazanmıştır?",
+                "answer": "İtilaf Devletleri.",
+                "answer_location": {
+                    "start": 3679,
+                    "end": 3697
+                }
+            }
+        ]
+    },
+    {
+        "document_id": 304,
+        "document_text": "Ankara Muharebesi, farklı kaynaklara göre 20 veya 28 Temmuz 1402'de Ankara'nın kuzeydoğusundaki Çubuk Ovası'nda, Osmanlı Devleti ile Timur İmparatorluğu arasında gerçekleşen muharebedir. Timur İmparatorluğu'nun kesin zaferiyle sonuçlanan muharebe sonrasında, Osmanlı Padişahı I. Bayezid Timurlulara esir düşmüş ve devlet, Fetret Devri olarak bilinen 11 yıllık hükümdarsız bir döneme girmiştir. I. Murad'ın yerine 1389'da Osmanlı padişahı olan I. Bayezid ilk olarak ayaklanan Anadolu beyliklerini egemenliği altına aldı ve 1391'de Konstantinopolis'i kuşattı. 1396'da Niğbolu Muharebesi'nde Batı Avrupa'dan şövalyelerin oluşturduğu Haçlı ordusunu yenilgiye uğrattı. 1397 sonbaharında Karamanlılara karşı Akçay Muharebesi'ni kazandı. I. Bayezid 1399'da Malatya'yı Memlûklerden aldı. 1370 yılında Timur'un başına geçtiği Türk-Moğol devleti Timur İmparatorluğu ise Mâverâünnehir'de dağınık hâldeki Türk ve Moğol boylarını birleştirdi. 1378 yılında İran'ı alan Timur, sonrasında Azerbaycan ve Irak'ı ele geçirdi. 1391 ve 1395'te olmak üzere iki kez Altın Orda Devleti'ni mağlup etti. Timur 1399 yılında Hindistan Seferi ile Hindistan'ın kuzeyini kontrolü altına aldı. Ardından batıya yönelerek Bağdat'ı aldı ve Karakoyunlu Hükümdarı Kara Yusuf, tâbi olduğu Celâyir Sultanı Ahmed Celâyir ile birlikte I. Bayezid'e sığındı. Timur, Azerbaycan bölgesini verdiği oğlu Miranşah'ın akıl sağlığının bozulması ve karışıklıklar çıkması nedeniyle yedi yıl harbi olarak adlandırılan üçüncü batı seferine çıktı. 1399-1400 kışını Karabağ'da geçiren Timur, Pasinler'e geldiği esnada Anadolu beyleri kendisine sığındı ve Bayezid tarafından alınan topraklarının geri verilmesini talep etti. Timur, Akkoyunlu Hükümdarı Kara Yülük Osman Bey ile Erzincan Emiri Mutahharten'i siyasi vaatler ile kendi safına çekti. I. Bayezid ise Mutahharten'e tekrar kendisine tâbi olmasını ve vergisini vermesini istedi. Timur ise Bayezid'e Haçlılar ile savaşması nedeniyle saldırmadığını, haddini bilmesini ve kendisini savaşa zorlamamasını tembihledi. Bayezid ise Timur'a; 'önceden beri onunla muharebe yapmak istediğini ve gelmediği takdirde kendisinin onun üzerine gideceğini' söyleyen bir mektup gönderdi. Bunun üzerine Timur, Sivas Kalesi'ni ele geçirmesinin ardından Suriye tarafına hareket etti. Bayezid ise bu esnada Mutahharten'den Erzincan ve Kemah'ı geri alırken Mutahharten'in ailesini tutsak etti. Timur, Bayezid'den Kemah ve çevresini teslim etmesini, şehzadelerinden birisini kendisine rehin vermesini, kendisine tâbi olmasını, Anadolu beylerinin topraklarını geri vermesini ve Kara Yusuf ile ailesinin teslim edilmesini talep ederken Bayezid bu istekleri reddetti. Timur, 1402 yılında tekrar Kemah Kalesi'ni ele geçirdi. Daha sonra Osmanlı elçileri tarafından Bayezid'in diplomatik teamüllere uymayan hakaret içerikli mektubu getirildi. Timur mektubu okuduktan sonra elçilere: 'Bayezid'e verdiği nasihatlerin fayda etmediğini ve taleplerini yerine getirmeyen Bayezid'in sabırla bekleyerek intikamına hazır olmasını' tembihleyen bir konuşma yaptı. Timur, şart koştuğu taleplerinden vazgeçmedi ve Bayezid'in ordusuyla harekete geçtiğini öğrenince muharebe kararı aldı. İki ordu Çubuk Ovası'nda, 20 veya 28 Temmuz günü muharebe düzenini aldı. Farklı kaynakların belirttiğine göre; Timur'un 140.000-800.000, Bayezid'in ise 70.000-300.000 aralığında askerden oluşan ordusu mevcuttu. Timur İmparatorluğu'nun, Osmanlı ordusunun sol cenahına ok saldırısıyla yaptığı ilk saldırıyı Rumeli tımarlı sipahileri püskürttü. Muharebe başında Osmanlı ordusunun sol cenahında yer alan Kara Tatarlar, muharebe esnasında saf değiştirerek Timur tarafına geçtiler. Daha sonra Anadolu beylerine bağlı eyalet askerleri de saf değiştirdiler. Her iki cenahını kaybeden Osmanlı ordusu, kalan kuvvetlerini merkezde birleştirerek tek bir tümen hâline geldi. Osmanlı ordusunda Sadrazam Çandarlı Ali Paşa, Yeniçeri Ağası Hasan Ağa, Süleyman Çelebi, Mehmed Çelebi ve İsa Çelebi kuvvetleriyle birlikte muharebe alanını terk ettiler. Bayezid kalan kuvvetleriyle düşman çemberini yararak, muharebe alanından yaklaşık 16 kilometre uzaklıktaki Mahmutoğlan'a ulaştı ancak burada atının tökezleyip düşmesiyle Sultan Mahmud tarafından yakalanarak esir alındı. Muharebenin ardından Osmanlıların elindeki birçok şehir Timur ordusu tarafından yağmalanırken Bayezid'in Bursa'daki ailesi esir alındı. Bayezid, 8 Mart 1403'te Akşehir'de öldü. Timur, Bayezid'in ele geçirdiği topraklarını Anadolu beylerine iade etti ve Anadolu'daki siyasi birlik bozuldu. Kalan topraklar Osmanlı şehzadeleri arasında paylaştırıldı. Böylece Osmanlı Devleti, Fetret Devri olarak adlandırılan ve 1413 yılına kadar süren bir iktidar boşluğu dönemine girdi. Devletin sınırları; Çorum, Amasya ve Tokat hariç, Orhan Gazi dönemindeki sınırlarına kadar küçüldü. Timur'un Anadolu ve civar yerlere yaptığı seferler nedeniyle Anadolu'daki ticaret akışı bozuldu. Venedik ve Ceneviz ise Doğu Akdeniz'deki deniz ticaretini ele geçirdi. Anadolu'nun demografik yapısı kısmen değişirken, buradaki insan nüfusu Rumeli ve Balkanlara göç etti.",
+        "questions": [
+            {
+                "question_id": "q1",
+                "question_text": "1402 yılında Ankara'da gerçekleşen savaş kimler arasında gerçekleşmiştir?",
+                "answer": "Osmanlı Devleti ile Timur İmparatorluğu",
+                "answer_location": {
+                    "start": 113,
+                    "end": 153
+                }
+            },
+            {
+                "question_id": "q2",
+                "question_text": "Yenilgiden sonra Osmanlı ne devrine girdi?",
+                "answer": "Fetret Devri",
+                "answer_location": {
+                    "start": 4569,
+                    "end": 4582
+                }
+            },
+            {
+                "question_id": "q3",
+                "question_text": "I. Bayezid hangi yılda padişah olmuştur?",
+                "answer": "1389",
+                "answer_location": {
+                    "start": 413,
+                    "end": 418
+                }
+            }
+        ]
+    },
+    {
+        "document_id": 305,
+        "document_text": "Generative Pre-trained Transformer 3 (Türkçe: Üretken Ön İşlemeli Dönüştürücü 3) kısaca GPT-3, insanların yazdığı metinlere benzer içerik üretmek için derin öğrenmeyi kullanan özbağlanımlı dil modelidir. GPT-n serisindeki üçüncü nesil dil tahmin modeli olan GPT-3, San Francisco merkezli yapay zeka araştırma laboratuvarı OpenAI tarafından geliştirilmiştir. GPT-3'ün tam sürümü, veri işleyecek 175 milyar parametreye sahiptir. Bu rakam GPT-2'nin öğrenme kapasitesinin 2 katıdır. 14 Mayıs 2020'de tanıtılan ve Temmuz 2020 itibarıyla beta aşamasında olan GPT-3, önceden öğretilmiş dil örnekleriyle doğal dil işleme (NLP) sistemini kullanmaktadır. GPT-3'ün piyasaya sürülmesinden önce, en büyük dil modeli Microsoft'un Şubat 2020'de tanıttığı ve GPT-3'ün %10'undan daha az kapasiteye sahip olan (17 milyar parametre) Turing NLG idi. GPT-3 tarafından üretilen metnin kalitesi o kadar yüksektir ki, bir insan tarafından yazılmadığını anlamak zordur. Bu durumun yaratabileceği avantajlar olabileceği gibi riskler de vardır. 31 OpenAI araştırmacısı ve mühendisi, 28 Mayıs 2020'de GPT-3'ü tanıtan orijinal makaleyi yayımlamıştır. Makalelerinde, GPT-3'ün potansiyel tehlikeleri konusunda insanları uyarmış ve bu riski azaltmak için çalışmalar yapılması gerektiği çağrısında bulunmuşlardır. Avustralyalı filozof David Chalmers, GPT-3'ü 'şimdiye kadar üretilmiş en ilginç ve önemli yapay zeka sistemlerinden biri' olarak tanımlamıştır. The Economist'e göre, geliştirilmiş algoritmalar, güçlü bilgisayarlar ve sayısallaştırılmış verilerdeki artış, makine öğreniminde bir devrimi tetiklemiştir. Yazılım modelleri, bir 'yapıda' binlerce veya milyonlarca örnek kullanarak öğrenmek üzere eğitilmektedir. Doğal dil işlemede (NLP) kullanılan mimari, ilk olarak 2017'de tanıtılan derin öğrenme modeline dayanan Transformer adlı yapay sinir ağıdır. GPT-n modellerinin yapısı, Transformer tabanlı derin öğrenme sistemine dayanmaktadır. Veri işleme, veri madenciliği, veri düzenleme, veriler arası bağlantı kurma, verilerde zıtlık oluşturma, verileri anlama ve sorulara yanıt verme becerisine sahip bir dizi NLP sistemi vardır. OpenAI'de çalışan 31 mühendis ve araştırmacıdan oluşan grup projeyi 28 Mayıs 2020'de tanıttı. Ekip, GPT-3'ün kapasitesinin selefi GPT-2'ye nazaran iki kat fazla olduğunu ve türünün en gelişmiş örneği olduğunu belirtmiştir. GPT-3'ün parametre sayısı, daha küçük kapasiteli önceki sürümlere kıyasla daha doğru çalışmasını sağlamaktadır. GPT-3'ün kapasitesi, Microsoft'un Turing NLG'sinin on katından fazladır. GPT-3'e öğrenmesi için verilen veri kümesinin %60'ının kaynağı, 410 milyar veriden oluşan filtrelenmiş Common Crawl sürümüdür. Veri kümesinin %22'si İnternetteki verilerden, %16'sı şimdiye kadar yayımlanmış kitaplardan ve %3'ü Wikipedia'dan gelmektedir. GPT-3, yüz milyarlarca kelimenin yanı sıra CSS, JSX, Python'da kodlama yeteneğine sahiptir. GPT-3'ün eğitim verileri her şeyi kapsadığından, farklı dil görevleri için daha fazla veri öğrenmesi gerekmemektedir. 11 Haziran 2020'de OpenAI, kullanıcıların OpenAI'nin yeni teknolojisinin 'güçlü yönlerini ve sınırlarını keşfetmesine' yardımcı olmak için kullanıcı dostu GPT-3 API'sine ('makine öğrenimi araç seti') erişim talep edebileceklerini duyurmuştur. Davetiyede, bu API'nin neredeyse 'tüm İngilizce komutları' tamamlayabildiğini yazmaktadır. OpenAI GPT-3 API'nin erken sürümüne erişim hakkı olan bir kullanıcıya göre, GPT-3 'inanılmaz derecede tutarlı metinler' yazma konusunda 'ürkütücü derecede iyiydi'. GPT-3, insanlar tarafından yazılan makalelerden ayırt etmekte güçlük çekilen haberler üretebildiğinden', GPT-3'ün hem yararlı hem de zararlı uygulamaların geliştirilmesinde kullanılabileceği düşünülmektedir. Araştırmacılar 28 Mayıs 2020 tarihli makalelerinde GPT-3'ün potansiyel zararlı etkilerini detaylıca açıklamışlardır. Yanlış bilgi üretimi, spam, kimlik avı, yasal ve hükûmet süreçlerinin kötüye kullanımı, sahte akademik makale yazma ve sosyal mühendislik potansiyel zararlı etkilerden bazılarıdır. Yazarlar, bu risklerin azaltılması konusunda araştırmalar yapılması için bu tehlikelere dikkat çekmektedir.",
+        "questions": [
+            {
+                "question_id": "q1",
+                "question_text": "GPT sistemleri hangi derin öğrenme sistemine dayanır?",
+                "answer": "Transformer",
+                "answer_location": {
+                    "start": 1792,
+                    "end": 1804
+                }
+            },
+            {
+                "question_id": "q2",
+                "question_text": "GPT-3 API ne zaman kullanıma sunulmuştur?",
+                "answer": "11 Haziran 2020",
+                "answer_location": {
+                    "start": 2978,
+                    "end": 2994
+                }
+            },
+            {
+                "question_id": "q3",
+                "question_text": "Model kaç parametreden oluşuyor?",
+                "answer": "175 milyar",
+                "answer_location": {
+                    "start": 394,
+                    "end": 405
+                }
+            }
+        ]
+    },
+    {
+        "document_id": 306,
+        "document_text": "Bleach (Japonca: ブリーチ Burīchi), Tite Kubo tarafından yazılan bir manga serisidir. Haftalık bölümleri Haftalık Shonen Jump dergisinde 2001’den beri yayınlanmaktadır. Animeye de uyarlanmış olan BLEACH'in ayrıca iki OVAsı, dört anime filmi, bir rock müzikali ve birçok video oyunu vardır. BLEACH'in mangası Japonya'da toplamda 80 milyonun üzerinde satmıştır. Seri, 15 yaşındaki hayaletleri görme yeteneği olan bir lise öğrencisi (Ichigo Kurosaki)'nin hayatını anlatır. Rukia Kuchiki isimli bir Shinigami (Ölüm Meleği) bir gün bir Hollow'u (Kötü Ruh) takip ederken Ichigo ile karşılaşır. Kötü Ruh ile savaşırken yaralanmasından dolayı güçlerini Ichigo'ya aktarmak zorunda kalır. Böylece Ichigo ve Rukia'nın maceraları başlar. Birlikte Kötü Ruhları arar, düzensiz ruhlar üzerinde ruh gömme işlemi yani Konsoh yapar ve onları Ruh Toplumu'na (Soul Society) yollarlar. Hikâyenin ilk bölümleri, Shinigamilik işinden çok karakterler ve geçmişlerine odaklanmıştır. Olaylar açıldıkça hikâye Shinigami dünyasına diğer bir deyişle Ruh Toplumuna (Soul Society) doğru derinleşmeye başlar. BLEACH ilk olarak Ağustos 2001’de Shueisha’nın Haftalık Shounen Jump dergisinde yayınlanmaya başladı. Manganın ilk cildi Japonya’da 1.25 milyon kopya sattı ve bütün seri toplamda 36 milyondan fazla sattı. 2005’te shounen kategorisinde Şogakukan Manga Ödülü’nü aldı. Masaşi Kudo’nun karakter dizaynları ve Şiro Sagisu’nun müzik düzenlemeleri; Noriyuki Abe’nin yönetmenliği Stüdyo Pierrot ve TV Tokyo’nun ortak yapımıyla animeye dönüştürüldü. 5 Ekim 2004’ten beri her çarşamba TV Tokyo’da yayınlanmaktadır. İki OVA, mevcut hikâyelere ek olarak üretildi. İlk 63 bölüm, manga baz alınarak çevrildi, bunları takip eden 46 bölüm animeye özgü bir konuyla devam etti. 110. anime bölümünden itibaren anime, manganın hikâye çizgisine geri döndü,daha sonra yayınlanan 128-137 arasında kalan bölümler,168-189 arasında kalan bölümler ve 204-205. bölümler de animeye özgü konulardır . BLEACH: Memories of Nobody 16 Aralık 2006’da Japonya’da gösterime girdi. TV Asaşi tarafından 2006’da yapılan internet anketinde BLEACH, Japonların en sevdikleri 7. anime programı seçildi. Ichigo Kurosaki, ruhları görmek gibi özel bir yeteneği olan, asi bir gençtir. Hikâye, tuhaf giyinmiş bir yabancı birdenbire Ichigo’nun yatak odasında görünüvermesiyle başlar. Bu yabancı onun kendisini görmesine şaşıran Shinigami Rukia Kuchiki’dir. Tartışmaları bir hollow (şeytani ruh)’un ortaya çıkmasıyla kesilir. Rukia, Ichigo’yu korumaya çalışırken dövüş esnesında ciddi bir şekilde yaralanınca güçlerinin yarısını –onun hollowla karşılaşabilecek seviyeye gelmesini umarak- Ichigo’ya vermeye karar verir. Ichigo istemsizce Rukia’nın güçlerinin hepsini alır ve hollowu kolayca yener. Sonraki gün Rukia transfer öğrenci olarak Ichigo’nun sınıfına gelir. Şaşırdığı üzere Rukia normal bir insan gibi görünmektedir. Rukia, kendini, insan dünyasında kalmak zorunda bırakan şeyin Ichigo’nun normal olmayan gücü yüzünden kendi gücünün hepsini emmesi olduğunu düşünmektedir. Bu yüzden yeteneklerinin iyileşmesini beklerken gigai (yapay insan vücudu) kullanır. Bu sırada Ichigo da Rukia’nın Shinigamilik –hollowları yok etme ve ruhları öteki dünyaya yollama- görevini üstlenmek zorunda kalır.",
+        "questions": [
+            {
+                "question_id": "q1",
+                "question_text": "Bleach manga serisi hangi dergide ve ne zaman yayınlanmaya başlamıştır?",
+                "answer": "Bleach manga serisi, Shueisha'nın Haftalık Shonen Jump dergisinde Ağustos 2001'de yayınlanmaya başlamıştır.",
+                "answer_location": {
+                    "start": 1792,
+                    "end": 1804
+                }
+            },
+            {
+                "question_id": "q2",
+                "question_text": "Ana karakter Ichigo Kurosaki'nin özel yeteneği nedir?",
+                "answer": "Ichigo Kurosaki'nin özel yeteneği hayaletleri görebilme yeteneğidir.",
+                "answer_location": {
+                    "start": 2978,
+                    "end": 2994
+                }
+            },
+            {
+                "question_id": "q3",
+                "question_text": "BLEACH manga serisi Japonya'da toplamda kaç kopya satmıştır?",
+                "answer": "BLEACH manga serisi Japonya'da toplamda 80 milyonun üzerinde satmıştır.",
+                "answer_location": {
+                    "start": 394,
+                    "end": 405
+                }
+            }
+        ]
+    },
+    {
+        "document_id": 308,
+        "document_text": "Mor ve Ötesi, Ocak 1995'te Harun Tekin (vokal & gitar), Alper Tekin (bas), Derin Esmer (vokal & gitar) ve Kerem Kabadayı (davul) tarafından İstanbul'da kuruldu. Aslında grubun temelleri, 90'lı yılların başında Harun Tekin ve Kerem Kabadayı'nın Alman Lisesi'nde okudukları dönemde kurdukları Decision grubu ile atılmıştır. İlk şarkılarını 1995 yılında Stüdyo Spectrum'da kaydetmeye başladılar. 'Şehir' ismini verdikleri, 10 şarkıdan oluşan bu albüm, Ada Yayıncılık aracılığı ile 1996 Haziran ayında yayımlandı ve ilk konserlerini Ankara'da verdiler. 'Yalnız Şarkı' parçasının videosu ise grubun ilk video klibidir. Bu şarkı aynı zamanda 'Sular Yükseliyor' isimli toplama albümde de yer aldı. Aynı sene Alper Tekin gruptan ayrıldı ve onun yerine Burak Güven dahil oldu. 'Sabahın Köründe' şarkısı bu albümün ikinci ve son klibi oldu. 1998 yılında mor ve ötesi, ikinci albümleri 'Bırak Zaman Aksın' için tekrar stüdyoya girdi. 1999 yılının Mart ayında ise albüm raflarda yerini aldı. 'Son Giden' ve 'Boş Ver' şarkılarına klip çekildi. Bu albümden kısa bir süre sonra gitarist Derin Esmer Amerika'ya taşındı ve boşalan gitar kadrosuna Kerem Özyeğen geldi. Takip eden aylarda meydana gelen 17 Ağustos depremi, grubu derinden etkiledi ve bir süre duraklamalarına sebep oldu. Mor ve Ötesi bu trajedi karşısında sessiz kalmadı ve çeşitli sosyal ve politik konularda aktivist rol üstlendi. Placebo'nun 9 Aralık 1999 İstanbul konserinde ön grup olarak sahne aldılar. 2000 yılının başlarında mor ve ötesi, ülke çapındaki nükleer enerji karşıtı kampanyalara çeşitli konser ve aktivitelerle destek verdi. Temmuz ayında grubun 'Sen Varsın' ile katıldığı 'Şarkılar Bir Oyundur' adlı Bülent Ortaçgil'e saygı albümü yayımlandı. Aynı ay içinde, üçüncü albüm 'Gül Kendine'nin kayıtları Volkan Gürkan prodüktörlüğünde başladı ve albüm bir sene sonra, 12 Ağustos 2001 tarihinde Ada Müzik etiketiyle piyasaya çıktı. Albümün son iki dakikasında, hayalet şarkı olarak Burak Güven tarafından seslendirilmiş 'İyi' şarkısı bulunuyor. 'Daha Mutlu Olamam' bu albümün tek klipli parçasıdır. 2002 yılının Nisan ayında Mor ve Ötesi altı şehri kapsayan ilk Türkiye turnesine çıktı. 2 Temmuz akşamı İstanbul'da yapılan 2002 H2000 festivali'nde mor ve ötesi, o döneme kadarki en başarılı konserlerinden birini verdi. Çeşitli basın ve yayın organlarınca görsel-işitsel yapısı büyük övgü alan bu performansa yaklaşık beş bin kişi tanıklık etti. 2003 yılı dünyanın gördüğü en büyük muhalefet dalgalarından biri ile başladı. Yaklaşan Amerikan saldırganlığına karşı sesini yükselten milyonlarca insandan birkaçı olan mor ve ötesi elemanlarının bestelediği ve Aylin Aslım, Athena, Bülent Ortaçgil, Feridun Düzağaç, Koray Candemir, Nejat Yavaşoğulları ve Vega ile birlikte seslendirdiği 'Savaşa Hiç Gerek Yok' şarkısı, savaş karşıtı hareketin marşlarından biri oldu. 1 Mart 2003 günü Ankara'da 100.000 kişiyle birlikte söylendi. 2003 yazında İlk-M Müzik'ten çıkardıkları üç şarkılık 'Yaz' single'ında, Ajda Pekkan'dan 'Yaz Yaz Yaz' ve Nejat Yavaşoğulları'ndan 'Güneye Giderken' coverlarının yanı sıra mor ve ötesi'nin 'Bazen' isimli şarkısı bulunuyordu. Bir Şehrazat bestesi olan 'Yaz Yaz Yaz' şarkısının damgasını vurduğu yaz aylarında grup, Fanta Gençlik Festivali kapsamında 17 kenti kapsayan bir turne gerçekleştirdi. 2005 yılında 'Yaz' EP'si, multimedya içeriği (Fanta Müzik Festivali videoları ve bazı resimler) eklenerek Pasaj Müzik tarafından yeniden basıldı. Sonbaharla birlikte dördüncü albüm çalışmalarına hız veren mor ve ötesi, bir yandan da Çağan Irmak'ın 'Mustafa Hakkında Her şey' filminin müziklerini hazırladı. Ocak 2004'te, dördüncü albüm 'Dünya Yalan Söylüyor' için grup, ilk defa birlikte çalışacağı Tarkan Gözübüyük prodüktörlüğünde stüdyoya girdi ve albüm nisan ayı sonunda yayınlandı. Hayalet şarkı olarak, albümün en sonunda e-bow ile çalınmış, 17 dakikalık bir 'Bir Derdim Var' doğaçlaması bulunmaktadır. Albüm ABD'nin hem Irak'ta hem de dünyanın geri kalan kısmındaki faaliyetlerine karşı önemli bir siyasi eleştiri içeriyordu. İlk single 'Cambaz' radyo ve televizyonlarda büyük ses getirirken; Fikret Kızılok'un 'Sevda Çiçeği' adlı şarkısına yaptıkları cover dinleyiciler tarafından beğeniyle karşılandı. Bu arada, 'Mustafa Hakkında Her şey' filminin soundtrack'i ve albümün üçüncü teklisi olan 'Bir Derdim Var', 41. Antalya Altın Portakal Film Festivali'nde 'En İyi Film Şarkısı' seçilerek Altın Portakal ödülünü aldı. Yaklaşık 250.000 adet kopya satan 'Dünya Yalan Söylüyor', yayınlanışından iki buçuk yıl sonra Blue Jean dergisi tarafından 'Tüm Zamanların En İyi Türkçe Rock Albümü'; Billboard dergisi tarafından 'Son On Yılın En İyi İkinci Türkçe Rock Albümü' seçilmiştir. Bu başarıyı oldukça yoğun ve kapsamlı bir konser ve turne trafiğiyle destekleyen grup, müziğini yurt çapında büyük kitlelerle paylaşma şansı buldu. Yine de bu albüm onların en çok satan albümü olmasına rağmen eski hayranları tarafından daha önceki çalışmaları kadar takdir edilmedi. Bu yıl içinde konsept albüm 'Söz Vermiş Şarkılar' için 'Telli'yi yorumladılar.",
+        "questions": [
+            {
+                "question_id": "q1",
+                "question_text": "Mor ve Ötesi grubu ne zaman ve kimler tarafından kuruldu?",
+                "answer": "Mor ve Ötesi, Ocak 1995'te Harun Tekin (vokal & gitar), Alper Tekin (bas), Derin Esmer (vokal & gitar) ve Kerem Kabadayı (davul) tarafından İstanbul'da kuruldu.",
+                "answer_location": {
+                    "start": 1,
+                    "end": 161
+                }
+            },
+            {
+                "question_id": "q2",
+                "question_text": "Mor ve Ötesi'nin ilk albümü hangi isimde ve ne zaman yayımlandı",
+                "answer": "Grubun 'Şehir' isimli ilk albümü, 10 şarkıdan oluşan ve Ada Yayıncılık aracılığı ile 1996 Haziran ayında yayımlandı.",
+                "answer_location": {
+                    "start": 393,
+                    "end": 509
+                }
+            },
+            {
+                "question_id": "q3",
+                "question_text": "Mor ve Ötesi'nin 'Dünya Yalan Söylüyor' albümü, ne zaman yayınlandı ve bu albümle ilgili öne çıkan bir özellik nedir?",
+                "answer": "'Dünya Yalan Söylüyor' albümü, Nisan 2004'te yayınlandı. Bu albüm, ABD'nin hem Irak'ta hem de dünyanın geri kalan kısmındaki faaliyetlerine karşı önemli bir siyasi eleştiri içeriyor ve yaklaşık 250.000 adet kopya satarak büyük bir başarıya ulaştı.",
+                "answer_location": {
+                    "start": 3615,
+                    "end": 3765
+                }
+            }
+        ]
+    },
+    {
+        "document_id": 309,
+        "document_text": "maNga, Ankara kökenli Alternatif Rock, Nu-Metal ve Rapcore tarzlarında müzik yapan Türk rock grubudur. Grup altı stüdyo albümüne sahip olup son albümleri Antroposen 002'i 14 Aralık 2023 tarihinde piyasaya sürdü. 2001 sonlarına doğru kurulan maNga grubunun hikâyesi Yağmur Sarıgül 'Yamyam' (Gitar)’ün barlarda 'cover' parçaları yorumlayıp eğlendikleri gruptan ihraç edilmesiyle başladı. Yeni grubunda rock müzikle elektroniği, sert gitar riffleriyle rap vokalleri birleştirmek isteyen Yamyam öncelikle okuldan en yakın arkadaşı Orçun Şekerusta (Bas gitar)’yı gruba dahil etti. Sonrasında Özgür Can Öney (Davul), Efe Yılmaz (Turntable) ve Ferman Akgül (Vokal)’ün gruba dahil olmasıyla ilk kadro tamamlanmış oldu. Tarz olarak ise yeni yeni gönüllerini kaptırdıkları “nu metal” ve 'hardcore' akımını benimsemişlerdi. Albüm maceraları ise Eylül 2001'de Ferman’ın 'Sing Your Song' yarışmasına katılma fikriyle başladı. Orçun’un özel nedenlerden dolayı gruptan ayrılmak zorunda kalmasıyla Cem Bahtiyar (Bas gitar) gruba dahil oldu ve maNga şu andaki yapısına kavuştu. Böylelikle beş ayrı karakteri, beş ayrı müzik zevkini ve beş ayrı duruşu sergileyen grup Japon çizgi romanı geleneğinin ünlü ekolü olan maNga ismiyle uzun yıllar sürecek albüm hayali için yola çıkmış oldu. İlk besteleri olan, “Kal Yanımda' parçasıyla 'Sing Your Song' yarışmasından ikincilik ödülü aldılar ve yarışmada kazandıkları başarıyla yeni besteler üretmeye başladılar. Bu dönem içinde 'Bitti Rüya', 'Libido' ve 'Yalan' gibi çok sevilen parçalarını yaptılar. Bir süre sonra yarışma döneminden tanıdıkları yapımcı Haluk Kurosman'dan gelen bir telefon ile artık emeklerinin karşılığını alacaklarına inanmaya başladılar. Beste çalışmalarına ve konserlere ağırlık veren grup Türkiye'nin dört bir yanına gidip elliyi aşkın konserle müziklerini kitlelerle paylaşmaya başladı. İlk albümleri 5 Aralık 2004’te grupla aynı adı taşıyan 'maNga' adıyla Sony Music Türkiye ve GRGDN ortaklığında piyasaya sürüldü. 'Kal Yanımda' adlı parçada Kargo’nun solisti Koray Candemir, 'İz Bırakanlar Unutulmaz' adlı parçada Vega grubunun solisti Deniz Akyüz, 'Dursun Zaman' adlı parçada ise Göksel konuk sanatçı olarak albümde yer aldı. Dinleyicilerden gelen destekle 180.000’i aşan albüm satışıyla Altın Plak ödülünün sahibi oldular. Ayrıca 'Bir Kadın Çizeceksin' şarkısı EA Sports'un FIFA 2006 oyunu sound trackine dahil edildi. Albümden çekilen video klipler sırasıyla 'Bir Kadın Çizeceksin', 'Bitti Rüya' ve 'Dursun Zaman' olmuştur. 2007 yılında ise 'Yalan' adlı şarkılarına klip çekmişlerdir. Bu albümde 'Spa' adlı bir karakter kullanılmıştır. İlk albüm 2006 Haziran'da, 'maNga+' adıyla çok özel ikinci bir baskısıyla yeniden yayımladı. Albümün yeni baskısı, Cem Karaca klasiği 'Raptiye Rap Rap' şarkısı ve 'Kandırma Kendini' şarkısı ile video kliplerinin olduğu hediye bir DVD ile birlikte yayımlandı. İlk albümlerinin üzerinden geçen 4 yılı aşkın süre zarfında turneler sebebiyle değişik coğrafyalara açılan maNga farklı kültürlerden insanlarla tanışarak kendisiyle daha barışık, daha samimi, daha sıcak ve biraz daha hüzünlü yeni bir dönemin içine girdi. Dünyaya bakış açıları değişen ve müzikal olarak dinledikleri de çeşitlenen grubun daha güçlü bir sounda sahip olan ikinci albümleri 'Şehr-i Hüzün'ün önkayıt dönemi yaklaşık 23 ay sürdü. Bu dönemin bu kadar uzun sürmesinin sebebi; büyük bir başarı yakaladıkları ilk albümün gruba getirdiği mutluluğun yanında herkesin üzerine göz ardı edilmeyecek bir sorumluluk yüklemesi ve heyecanla bekleyen müzik severlerine ilk albümü aratmayacak kadar nitelikli ve nicelikli bir albüm sunabilme isteğiydi. Büyük bir özveri ile hazırlanan, maNga’nın farklılığını ve müziğinde hiçbir sınır olmadığını gösteren 'Şehr-i Hüzün' albümü, 15 Nisan 2009 tarihinde GRGDN & Sony Music etiketiyle raflardaki yerini aldı. Bu albüme sırasıyla 'Dünyanın Sonuna Doğmuşum', 'Beni Benimle Bırak', 'Cevapsız Sorular' ve 90'ların en büyük gruplarından Cartel'in 'Evdeki Ses' parçalarına video çekilmiş ve müzik listelerinin üst sıralarında yer almıştır. maNga grubunun üçüncü stüdyo albümü olan 'E-akustik' 20 Mart 2012 tarihinde yayımlanmıştır. Albümün prodüktörlüğünü grup üyelerinden Yağmur Sarıgül'ün yaptığı ve Pasaj/GRGDN işbirliğiyle çıkan bu elektrikli akustik olarak tanımladıkları ve tüm enstrümanların canlı kaydedildiği, ancak elektronik sesler de barındıran yeni maNga albümü, üçü yepyeni toplam on iki parçadan oluşuyor. Albümde Yıldız Tilbe'yle 'Hani Biz', Arto Tunçboyacıyan'la ise 'Hoş Geldin' parçalarında yaptıkları düetler de vardır. Yıldız Tilbe'nin farklı bir ses yapısı olduğunu savunan grup üyeleri sanatçıyla ilgili gelen sorulara ise 'Yıldız Tilbe çoğu rockçıdan daha çok Rock'n Roll.' cevabını vermişlerdir. Bu albümden 'Hani Biz' ve 'Rezalet Çıkarasım Var' şarkılarına klip çekildi.",
+        "questions": [
+            {
+                "question_id": "q1",
+                "question_text": "maNga hangi türlerde müzik yapıyor?",
+                "answer": "Alternatif Rock, Nu-Metal ve Rapcore",
+                "answer_location": {
+                    "start": 22,
+                    "end": 59
+                }
+            },
+            {
+                "question_id": "q2",
+                "question_text": "Grubun bas gitaristinin adı nedir?",
+                "answer": "Orçun Şekerusta",
+                "answer_location": {
+                    "start": 527,
+                    "end": 555
+                }
+            },
+            {
+                "question_id": "q3",
+                "question_text": "2006 yılında çıkan albümlerinin adı nedir?",
+                "answer": "maNga+",
+                "answer_location": {
+                    "start": 2603,
+                    "end": 2628
                 }
             }
         ]

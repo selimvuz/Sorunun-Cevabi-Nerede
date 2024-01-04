@@ -1,0 +1,28 @@
+Under anaerobic conditions, iron and steel alloys are slowly oxidized by the protons of water concomitantly reduced in molecular hydrogen (H
+2). The anaerobic corrosion of iron leads first to the formation of ferrous hydroxide (green rust) and can be described by the following reaction:
+In its turn, under anaerobic conditions, the ferrous hydroxide (Fe(OH)
+2 ) can be oxidized by the protons of water to form magnetite and molecular hydrogen. This process is described by the Schikorr reaction:
+In the absence of atmospheric oxygen (O
+2), in deep geological conditions prevailing far away from Earth atmosphere, hydrogen (H
+2) is produced during the process of serpentinization by the anaerobic oxidation by the water protons (H+) of the ferrous (Fe2+) silicate present in the crystal lattice of the fayalite (Fe
+2SiO
+4, the olivine iron-endmember). The corresponding reaction leading to the formation of magnetite (Fe
+3O
+4), quartz (SiO
+2) and hydrogen (H
+2) is the following:
+From all the fault gases formed in power transformers, hydrogen is the most common and is generated under most fault conditions; thus, formation of hydrogen is an early indication of serious problems in the transformer's life cycle.
+Large quantities of H
+2 are needed in the petroleum and chemical industries. The largest application of H
+2 is for the processing ("upgrading") of fossil fuels, and in the production of ammonia. The key consumers of H
+2 in the petrochemical plant include hydrodealkylation, hydrodesulfurization, and hydrocracking. H
+2 has several other important uses. H
+2 is used as a hydrogenating agent, particularly in increasing the level of saturation of unsaturated fats and oils (found in items such as margarine), and in the production of methanol. It is similarly the source of hydrogen in the manufacture of hydrochloric acid. H
+2 is also used as a reducing agent of metallic ores.
+Hydrogen is highly soluble in many rare earth and transition metals and is soluble in both nanocrystalline and amorphous metals. Hydrogen solubility in metals is influenced by local distortions or impurities in the crystal lattice. These properties may be useful when hydrogen is purified by passage through hot palladium disks, but the gas's high solubility is a metallurgical problem, contributing to the embrittlement of many metals, complicating the design of pipelines and storage tanks.
+Apart from its use as a reactant, H
+2 has wide applications in physics and engineering. It is used as a shielding gas in welding methods such as atomic hydrogen welding. H2 is used as the rotor coolant in electrical generators at power stations, because it has the highest thermal conductivity of any gas. Liquid H2 is used in cryogenic research, including superconductivity studies. Because H
+2 is lighter than air, having a little more than 1⁄14 of the density of air, it was once widely used as a lifting gas in balloons and airships.
+In more recent applications, hydrogen is used pure or mixed with nitrogen (sometimes called forming gas) as a tracer gas for minute leak detection. Applications can be found in the automotive, chemical, power generation, aerospace, and telecommunications industries. Hydrogen is an authorized food additive (E 949) that allows food package leak testing among other anti-oxidizing properties.
+Hydrogen's rarer isotopes also each have specific applications. Deuterium (hydrogen-2) is used in nuclear fission applications as a moderator to slow neutrons, and in nuclear fusion reactions. Deuterium compounds have applications in chemistry and biology in studies of reaction isotope effects. Tritium (hydrogen-3), produced in nuclear reactors, is used in the production of hydrogen bombs, as an isotopic label in the biosciences, and as a radiation source in luminous paints.
+Hydrogen is commonly used in power stations as a coolant in generators due to a number of favorable properties that are a direct result of its light diatomic molecules. These include low density, low viscosity, and the highest specific heat and thermal conductivity of all gases.

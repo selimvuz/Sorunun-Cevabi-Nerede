@@ -4,10 +4,10 @@ from sklearn.metrics import f1_score
 import json
 
 # JSON dosyalarını yükleyin
-with open('Dataset/2048_soru&cevap.json', 'r', encoding='utf-8') as file:
+with open('Datasets/q&a_dataset.json', 'r', encoding='utf-8') as file:
     data = json.load(file)
 
-with open('Dataset/2048_extra.json', 'r', encoding='utf-8') as file:
+with open('Datasets/extra_docs.json', 'r', encoding='utf-8') as file:
     extra_documents = json.load(file)
 
 # Tüm dokümanları birleştirin
