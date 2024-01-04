@@ -988,5 +988,104 @@
                 }
             }
         ]
+    },
+    {
+        "document_id": 531,
+        "document_text": "İsrail, Batı Asya'da Akdeniz'in güneydoğu kıyısında ve Kızıldeniz'in kuzey kıyısında yer alan ülkedir. 14 Mayıs 1948'de, David-Ben Gurion öncülüğünde Tel-Aviv'de toplanan Yahudi Millî Konseyi kuruluşunu ilan etmiştir. Kuzeyinde Lübnan, kuzeydoğusunda Suriye, doğusunda Ürdün, güneybatısında Mısır ve hem batı hem de doğusunda sırasıyla Filistin toprakları olan Gazze Şeridi ve Batı Şeria ile komşudur. Görece küçük yüzölçümü içerisinde coğrafi olarak çeşitli farklılıklar görülmektedir. Ülkede ekonominin ve teknolojinin merkezi Tel Aviv iken idari merkez ve ilan edilmiş başkent Kudüs'tür; ancak devletin Kudüs üzerindeki egemenliği tam olarak tanınmamaktadır. İsrail toprakları, hominidlerin Afrika dışındaki ilk göç noktalarından biriydi. Orta Tunç Çağı'ndan itibaren Kenan kabileleri bu bölgede yaşarken Demir Çağı'nda İsrail Krallığı ve Yehuda Krallığı kuruldu. MÖ 720 yıllarında Yeni Asur İmparatorluğu, İsrail Krallığı'nı yok etti. Yehuda Krallığı ise sırasıyla Babil, Pers ve Helen imparatorlukları tarafından ele geçirildi ancak Yahudi özerk statüsüyle varlığını korudu. Makkabi İsyanı sonucunda MÖ 110 yılından itibaren bağımsız bir Haşmonayim Krallığı kurulsa da krallık önce MÖ 63'te Roma Cumhuriyeti'nin vasal devleti hâline geldi, ardından MÖ 37'de bölgeye merkezden Hirodes Hanedanı yönetici olarak atandı ve MÖ 6'da Yahudiye adıyla bir Roma eyaleti şeklinde yeniden yapılandırıldı. Yahudiye, başarısız Yahudi İsyanları'na kadar bir Roma ili olarak kaldı ancak isyanlar sonucunda Romalı yöneticiler şehri yakıp yıktı, Yahudi nüfusu şehirden sürdü ve bölgenin adını Suriye Filistini olarak değiştirdi. Bunun ardından bölgedeki Yahudi varlığı yüzyıllar boyunca belirli bir ölçüde devam etti. MS 7. yüzyılda Levant, Araplar tarafından Bizans İmparatorluğu'ndan alındı ve 1099'da Birinci Haçlı Seferi'ne kadar bölgedeki Arap hakimiyeti sürdü. 1187'de Eyyubiler ile birlikte yeniden Müslümanlar bölgenin hakimi oldu, ardından 13. yüzyıldan itibaren Memlükler hakimiyet alanlarını Mısır'dan itibaren bu bölgeye kadar genişlettiler. 1517'de Osmanlı İmparatorluğu, Memlükleri yenerek bölgeyi ele geçirdi ve Osmanlı hakimiyeti imparatorluğun I. Dünya Savaşı'nda dağılışına dek devam etti. 19. yüzyılda Yahudi ulusal uyanışıyla birlikte diasporada Siyonist hareket ortaya çıktı, böylece Osmanlı Suriyesine ve sonrasında Birleşik Krallık'a bağlı Filistin Mandasına göç dalgaları başladı. İki dünya savaşı arasında Yahudiler bölgeden toprak satın alarak nüfus bölgesini genişletti. 1930'larda parayla alınan toprakların %25'e yakını Filistinlilerden, %50'den fazlası diğer toprak sahiplerinden, %25'e yakın diğer kısmı ise fellahlar ve hükumetten satın alınmıştı. 1947'de Birleşmiş Milletler'in hazırladığı Filistin Paylaşım Planı ile bölgede bağımsız Arap ve Yahudi devletleri ile uluslararası Kudüs yönetiminin kurulması istendi. Kabul edilmesi durumunda 400.000 Arap sivili İsrail toprakları içerisinde bırakacak olan ve Filistin topraklarının yalnızca %7'sinin sahibi olmalarına rağmen Yahudilere bölgenin %56'sını veren planı Yahudi Ajansı kabul ederken Arap liderler reddetti. Sonraki yıl Yahudi Ajansı, İsrail Devleti'nin bağımsızlığını ilan etti ve hemen peşinden başlayan 1948 Arap-İsrail Savaşı sonucunda İsrail eski Filistin Mandası topraklarının büyük çoğunluğunu elinde tutarken komşu Arap ülkeleri ise Batı Şeria ve Gazze'yi ele geçirdi. Bu süreç sırasında, bir Yahudi devletinin varlığını sağlamak için; 700.000'den fazla Filistinli topraklarından kovuldu veya Deir Yasin Katliamı'ndan sonra oluşan korku ortamı nedeniyle kendileri kaçtı, 400 ila 600 Filistin köyü yok edildi ve geriye kalanların adları 'İbraniceleştirildi', Filistinlilerin topraklarına geri dönme hakkına engel olundu, milyonlarca kalıcı Filistinli mülteci oluşturuldu ve 'Filistin toplumu imha edildi'. Bu tarihten sonra İsrail ile Arap ülkeleri arasında birçok savaş çıktı; İsrail, 1967'deki Altı Gün Savaşı'ndan itibaren Batı Şeria, Gazze Şeridi (2005'teki geri çekilmeye rağmen birçok hukukçu hâlâ işgal altında olduğunu kabul ediyor) ve Golan Tepelerini işgal etti. Kendi idaresini Doğu Kudüs ve Golan Tepeleri'ni içine alarak genişletse de bunu Batı Şeria'da gerçekleştiremedi. İsrail'in Filistin topraklarını işgali, modern zamanların en uzun işgalidir.",
+        "questions": [
+            {
+                "question_id": "q1",
+                "question_text": "Araplar tarafından Bizans İmparatorluğu'ndan alındıktan sonra ne zamana kadar Arap hakimiyeti sürdü?",
+                "answer": "Birinci Haçlı Seferi'ne kadar",
+                "answer_location": {
+                    "start": 1791,
+                    "end": 1821
+                }
+            },
+            {
+                "question_id": "q2",
+                "question_text": "Bölgeyi 1517 yılında Memlükler'den kim aldı?",
+                "answer": "Osmanlı İmparatorluğu",
+                "answer_location": {
+                    "start": 2049,
+                    "end": 2071
+                }
+            },
+            {
+                "question_id": "q3",
+                "question_text": "Modern zamanların en uzun işgali nedir?",
+                "answer": "İsrail'in Filistin topraklarını işgali",
+                "answer_location": {
+                    "start": 4171,
+                    "end": 4210
+                }
+            }
+        ]
+    },
+    {
+        "document_id": 532,
+        "document_text": "Avrupa Birliği (AB), yirmi yedi üye ülkeden oluşan ve toprakları büyük ölçüde Avrupa kıtasında bulunan siyasi ve ekonomik bir örgütlenmedir. 1993 yılında, Avrupa Birliği Antlaşması olarak da bilinen Maastricht Antlaşması'nın yürürlüğe girmesi sonucu, var olan Avrupa Ekonomik Topluluğu'na yeni görev ve sorumluluk alanları yüklenmesiyle kurulmuştur. 445 milyondan fazla nüfusuyla Avrupa Birliği, dünya ülkelerinin GSYİH’ye (nominal) göre sıralanışında nominal gayrisafi yurt içi hasılasının %30'luk bölümünü oluşturur. Avrupa Birliği, tüm üye ülkeleri bağlayan standart yasalar aracılığıyla, insan, eşya, hizmet ve sermaye dolaşımı özgürlüklerini kapsayan bir ortak pazar (tek pazar) geliştirmiştir. Birlik içinde tarım, balıkçılık ve bölgesel kalkınma politikalarından oluşan ortak bir ticaret politikası izlenir. Birliğe üye ülkelerin yirmisi, Euro adıyla anılan ortak para birimini kullanmaya başlamıştır. Avrupa Birliği, üye ülkelerini Dünya Ticaret Örgütü'nde, G8 zirvelerinde ve Birleşmiş Milletler'de temsil ederek dış politikalarında da rol oynamaktadır. Birliğin yirmi yedi üyesinden yirmi biri NATO'nun da üyesidir. Schengen Antlaşması uyarınca birlik üyesi ülkeler arasında pasaport kontrolünün kaldırılmasının da arasında bulunduğu pek çok adlî konu ve içişleri düzenlemelerinde Avrupa Birliği'nin payı bulunur. Avrupa Birliği, devletlerarası ve çok uluslu bir oluşumdur. Birlik içinde kimi konularda devletlerarası anlaşma ve fikir birliği gerekir. Ancak belirli durumlarda uluslarüstü yönetim organları, üyelerin anlaşması olmaksızın da karara varabilir. Avrupa Birliği'nin bu tip haklara sahip önemli yönetim birimleri Avrupa Komisyonu, Avrupa Parlamentosu, Avrupa Birliği Konseyi, Liderler Zirvesi, Avrupa Adalet Divanı ve Avrupa Merkez Bankası'dır. Parlamentoyu, Avrupa Birliği vatandaşları beş yılda bir oylama yöntemiyle seçerler. Avrupa Birliği'nin temelleri 1951 yılında, altı ülkenin katılımıyla oluşturulan Avrupa Kömür ve Çelik Topluluğu'na ve 1957 Roma Antlaşması'na dayanmaktadır. O dönemden bu yana, birlik yeni üyelerin katılımlarıyla boyut olarak büyümüş; var olan yetkilerine yeni görev ve sorumluluk alanları ekleyerek de gücünü arttırmıştır. Üye devletler Aralık 2007'de, birliğin bugüne dek yaptığı antlaşmalar ile yasal yapısını güncellemek ve iyileştirmek amacıyla Lizbon Antlaşması imzalanmıştır. Lizbon Antlaşması'nın onaylanma ve işleme girme sürecinin 2008 yılı içinde olması öngörülmüşse de İrlanda'da, antlaşmanın onaylanması için yapılan halk oylamasının ilk etapta olumsuz sonuçlanması kabul sürecini geciktirmiştir. Avrupa Birliği 2012 Nobel Barış Ödülü'nü almıştır. II. Dünya Savaşı sonrası oluşan siyasi hava Batı Avrupa'da birlik ve beraberlik rüzgârları estirmeye başladı. Bu da pek çok kişi tarafından, Avrupa'ya büyük zararlar veren aşırı milliyetçilik düşüncelerinden bir kaçış yolu olarak görülüyordu. Bu düşüncelerle birlikte 1951 yılında, ilk başarıya ulaşan Avrupa içi iş birliği olan, Avrupa Kömür ve Çelik Topluluğu önerisi geldi. Bu oluşumun temel amacı, başta Fransa ve Batı Almanya olmak üzere üyeleri arasında kömür ve çelik endüstrilerinin yönetimini bir araya getirmekti. Bunun yapılış nedeni, dönemin en önemli sanayi hammaddeleri olan kömür ve çelikten doğabilecek herhangi bir uyuşmazlığın önlenmesi ve buna bağlı olarak iki ülke arasındaki olası bir savaşın engellenmesidir. Bu iş birliğinin kurucuları yaptıklarını 'Avrupa ittifakında ilk adım' olarak nitelediler. Topluluğun diğer kurucu üyeleri İtalya ve Benelüks ülkeleri: Belçika, Hollanda, Lüksemburg idi. 1957 yılında iki yeni topluluk daha oluşturuldu: gümrük birliği işlemlerini sağlayan Avrupa Ekonomik Topluluğu ve nükleer enerji çalışmaları yürütmek için kurulan Avrupa Atom Enerjisi Topluluğu (Euratom). 1965 yılına gelindiğinde imzalanan Brüksel Antlaşması ile var olan 3 topluluk Avrupa Toplulukları ya da daha yaygın biçimiyle Avrupa Topluluğu (AT) adıyla tek bir çatı altında toplandı. 1973 yılında Avrupa Toplulukları Danimarka, İrlanda ve Birleşik Krallık'ı da içine alarak genişleme yoluna gitti. Bu ülkelerde katılım öncesi yapılan görüşmeler sırasında Norveç ile de masaya oturuldu ancak ülkede düzenlenen halk oylaması sonucu katılım isteği reddedilince Norveç topluluğun dışında kaldı. Avrupa Parlamentosu'nun üyeleri arasında ilk demokratik, doğrudan seçimler 1979 yılında gerçekleştirildi. Bunlar, Avrupalılara Avrupa Parlamentosu Milletvekilleri'ni seçmeleri konusunda olanak sağlayan ve ayrıca uluslararası düzeyde yapılan ilk seçimlerdi. Yunanistan, İspanya ve Portekiz topluluğa 1980'li yıllarda katıldılar. 1985'te imzalanan Schengen Antlaşması, üye devletlerin pek çoğu arasında sınırda pasaport kontrolü olmaksızın yolculuk edebilme olanağını sağladı. 1986'da Avrupa bayrağı kullanılmaya başlandı ve liderler Avrupa Tek Senedi'ni imzaladılar. Bununla birlikte topluluğun karar alma mekanizmasının genişlemesi, ticari işlemlerde engel ve formalitelerin azaltılması ve daha ileri bir Avrupa Politik İş Birliği kurumu oluşturulması sağlandı.",
+        "questions": [
+            {
+                "question_id": "q1",
+                "question_text": "Avrupa nüfusu yaklaşık kaç milyondur?",
+                "answer": "445",
+                "answer_location": {
+                    "start": 350,
+                    "end": 354
+                }
+            },
+            {
+                "question_id": "q2",
+                "question_text": "Avrupa Birliği'ndeki ülkelerden kaçı NATO üyesidir?",
+                "answer": "yirmi biri",
+                "answer_location": {
+                    "start": 1093,
+                    "end": 1104
+                }
+            },
+            {
+                "question_id": "q3",
+                "question_text": "Birleşik Krallık Avrupa Birliği'ne ne zaman katıldı?",
+                "answer": "1973",
+                "answer_location": {
+                    "start": 3920,
+                    "end": 3925
+                }
+            }
+        ]
+    },
+    {
+        "document_id": 534,
+        "document_text": "Büyük Britanya ve Kuzey İrlanda Birleşik Krallığı veya yaygın adıyla Birleşik Krallık; Avrupa anakarasının kuzeybatı kıyılarında, Kuzeybatı Avrupa'da egemen bir ülkedir. Birleşik Krallık; İngiltere, İskoçya, Galler ve diğer ülkelerden İrlanda Denizi ile ayrılan Kuzey İrlanda olmak üzere dört kurucu ülkeden oluşur. Birleşik Krallık'ın tek kara sınırını Kuzey İrlanda'da İrlanda ile paylaşır. Doğuda Kuzey Denizi, güneyde Manş Denizi ve güneybatıda Kelt Denizi ile Atlas Okyanusu ile çevrili olan Birleşik Krallık, dünyanın en uzun 12. kıyı şeridine sahiptir. Birleşik Krallık'ın toplam alanı 242.500 km karedir (93.628 mil2). Birleşik Krallık, üniter bir parlamenter demokrasi ve anayasal monarşidir. Hükümdar, Kral III. Charles, 2022’den beri hüküm sürmektedir. Hem Birleşik Krallık hem de İngiltere'nin başkenti ve en büyük şehri, kentsel alan nüfusu 10,3 milyon olan küresel bir şehir ve finans merkezi olan Londra'dır. Birleşik Krallık 2021 itibarıyla dünyanın nominal GSYİH'ye göre 5., satın alma gücü paritesine göre ise 10. büyük ekonomisidir. 2021 İnsani Gelişme Endeksi'nde dünyada 18. sıradadır. Dünyanın ilk sanayileşmiş ülkesi olarak 19. ve 20. yüzyılın başlarında dünyanın önde gelen gücü olan Britanya İmparatorluğu, 1920'lerdeki zirvesinde, dünya topraklarının neredeyse dörtte birini ve dünya nüfusunun üçte birini kapsamaktaydı. İmparatorluğu oluşturan ülkeler 1960'lı yıllarda hızla bağımsızlıklarını ilan etseler de günümüzde Britanya İmparatorluğu'nun etkisi, eski sömürgelerinin birçoğunun dilinde, kültüründe, yasal ve politik sistemlerinde gözlemlenebilir. Birleşik Krallık, AUKUS, Avrupa Konseyi, Birleşmiş Milletler Güvenlik Konseyi daimi üyeliği, Dünya Ticaret Örgütü (DTÖ), Ekonomik İşbirliği ve Kalkınma Teşkilatı (OECD), G7, G20, Milletler Topluluğu ve NATO üyeliğinin yanı sıra, 1973'ten 2016'da yapılan halk oylamasına takiben 2020'de ayrılana kadar Avrupa Toplulukları (AK) ve halefi Avrupa Birliği'nin (AB) üyesiydi. Ülkenin resmi adı 'Kuzey İrlanda ve Büyük Britanya Birleşik Krallığı'dır ve pek çok kaynakta ülkenin adı kısaca 'Birleşik Krallık' olarak geçmektedir. İngiltere, aslında ülkenin resmi adında geçen 'Büyük Britanya'yı oluşturan üç bölgeden birisidir. Büyük Britanya'yı oluşturan diğer iki bölge ise tarihsel süreç içerisinde ülkeye bağlanan Galler ve İskoçya'dır. Ülkenin resmi adında geçen Kuzey İrlanda ise İrlanda'nın bağımsızlığını kazanmasından sonra Birleşik Krallığa bağlı olarak kalan, İrlanda adasının kuzey doğu kısmında yer alan bölgedir. Ayrıca, imparatorluk döneminin bir kalıntısı olarak ülkeye bağlı olan çok sayıda küçük, denizaşırı toprak parçası bulunmaktadır. 1707 Birlik Eylemleri, İngiltere Krallığı ve İskoçya Krallığı'nın 'Büyük Britanya Adıyla Tek Bir Krallıkta Birleştiğini' ilan etti. 1800 Birlik Eylemleri, 1801'de Büyük Britanya Krallığı ile İrlanda Krallığını birleştirdi ve Büyük Britanya ve İrlanda Birleşik Krallığı'nı oluşturdu. İrlanda'nın bölünmesi ve 1922'de Kuzey İrlanda'yı İrlanda adasının Birleşik Krallık içindeki tek parçası olarak bırakan Özgür İrlanda Devleti'nin bağımsızlığını takiben, adı 'Büyük Britanya ve Kuzey İrlanda Birleşik Krallığı' olarak değiştirildi. Büyük Britanya, yaklaşık yarım milyon yıldır yerleşim yeri olmuştur. En eski arkeolojik kalıntılar arasında kemikler ve çakmaktaşı aletler bulunur. MÖ 2500 civarında başlayan Tunç Çağı, tarım ve hayvancılığın evrimine ve en ünlüsü Stonehenge'de taş ve ahşap dairelerin inşasına tanık oldu. Julius Caesar (MÖ 100-44) ve Roma lejyonerleri ilk olarak MÖ 55'te Kent'e ayak bastı, ancak Romalıların Büyük Britanya'yı işgal etmesi, güneydoğu İngiltere'yi alması ve ardından kuzeye itmesi, yollar inşa etmesi ve askeri karakollar kurması MS 43 yılına kadar değildi. MS 80 civarında Roma İmparatorluğu, İngiltere ve Galler'in çoğunu ele geçirdi. İmparator Hadrianus (76-138) Hadrian Duvarı'nın inşasıyla kuzey sınırını belirledi. Roma Britanyası (Latince: Provincia Britannia) 400 yıl sürdü. Ticaret gelişti ve barış galip geldi - ancak Kıta Avrupası'nda yaşanan Kavimler Göçü'nün bir parçası olarak Kuzey Almanya'dan Saksonlar (Saxons) ve Angıllar (Angles) düzenli olarak Roma Britanyası'na baskın düzenlemesiyle Roma'nın gücü azaldı.",
+        "questions": [
+            {
+                "question_id": "q1",
+                "question_text": "Birleşik Krallık kaç kurucu ülkeden oluşmaktadır?",
+                "answer": "dört",
+                "answer_location": {
+                    "start": 288,
+                    "end": 293
+                }
+            },
+            {
+                "question_id": "q2",
+                "question_text": "Londra'nın nüfusu kaç milyondur?",
+                "answer": "10,3",
+                "answer_location": {
+                    "start": 854,
+                    "end": 859
+                }
+            },
+            {
+                "question_id": "q3",
+                "question_text": "Tunç Çağı ne zaman başlamıştır?",
+                "answer": "MÖ 2500",
+                "answer_location": {
+                    "start": 3306,
+                    "end": 3314
+                }
+            }
+        ]
     }
 ]
