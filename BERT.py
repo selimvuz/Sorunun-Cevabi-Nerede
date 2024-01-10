@@ -9,23 +9,26 @@ model_name = 'dbmdz/bert-base-turkish-uncased'
 tokenizer = BertTokenizer.from_pretrained(model_name)
 model = BertModel.from_pretrained(model_name)
 
+i = 1
+
 
 def get_bert_embedding(text, tokenizer, model):
-    # Metni tokenize et ve PyTorch tensor'ına dönüştür
     inputs = tokenizer(text, return_tensors='pt',
                        max_length=512, truncation=True)
     with torch.no_grad():
         outputs = model(**inputs)
-    # Son katmanın gizli durumunu al ve düzleştir (flatten)
-    embeddings = outputs.last_hidden_state[:, 0, :]
+    # Tüm token'ların gömülülerinin ortalamasını al
+    embeddings = outputs.last_hidden_state.mean(dim=1)
     return embeddings.cpu().numpy().flatten()
 
 
-def split_document_into_segments(document_text, segment_length=512):
+def split_document_into_segments(document_text, segment_length=48):
     # Belgeyi bölümlere ayırma
     tokenized_text = tokenizer.tokenize(document_text)
     return [tokenized_text[i:i + segment_length] for i in range(0, len(tokenized_text), segment_length)]
 
+
+print("Veriler yükleniyor...")
 
 # JSON dosyalarını yükleyin
 with open('Datasets/q&a_dataset.json', 'r', encoding='utf-8') as file:
@@ -37,6 +40,8 @@ with open('Datasets/extra_docs.json', 'r', encoding='utf-8') as file:
 # Tüm dokümanları birleştirin
 all_documents = data + extra_documents
 
+print("Metinler vektör temsillerine dönüştürülüyor...")
+
 # Dokümanları bölümlemek ve BERT temsillerine dönüştürmek
 doc_segments_embeddings = []
 for doc in all_documents:
@@ -44,10 +49,14 @@ for doc in all_documents:
     segments_embeddings = [get_bert_embedding(
         tokenizer.convert_tokens_to_string(seg), tokenizer, model) for seg in segments]
     doc_segments_embeddings.append(segments_embeddings)
+    print(f"Hesaplanıyor: {i}/{len(all_documents)}")
+    i += 1
 
 # Soruları BERT temsillerine dönüştürün
 question_embeddings = [get_bert_embedding(q['question_text'], tokenizer, model)
                        for doc in data for q in doc.get('questions', [])]
+
+print("Kosinüs benzerliği hesaplanıyor...")
 
 # Kosinüs benzerliği hesaplama ve tahminlerin saklanması
 predictions = []
@@ -70,6 +79,8 @@ precision = 0
 correct_predictions = 0
 total_questions = len(question_embeddings)  # Toplam soru sayısı
 
+print("Performans kriterleri hesaplanıyor...")
+
 for i, (predicted_doc_index, predicted_segment_index) in enumerate(predictions):
     # Gerçek döküman ID'sini al
     question_index = i  # Soru indexi
@@ -87,6 +98,11 @@ for i, (predicted_doc_index, predicted_segment_index) in enumerate(predictions):
         rank = 1 / (question_index % len(data[0]['questions']) + 1)
         mrr += rank
 
+    print("Predicted: ", predicted_doc_id)
+    print("Real: ", correct_doc_id)
+
+print("Çay demleniyor.")
+
 precision = correct_predictions / total_questions
 recall = correct_predictions / total_questions
 mrr /= total_questions
@@ -95,6 +111,7 @@ mrr /= total_questions
 f1 = 2 * (precision * recall) / (precision +
                                  recall) if (precision + recall) > 0 else 0
 
+print("Sonuçlar:\n")
 # Güncellenmiş sonuçları yazdırma
 print(f"Mean Reciprocal Rank (MRR): {mrr}")
 print(f"Precision: {precision}")

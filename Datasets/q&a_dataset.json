@@ -5,11 +5,11 @@
         "questions": [
             {
                 "question_id": "q1",
-                "question_text": "Türkiye'nin resmi adı nedir?",
-                "answer": "Türkiye Cumhuriyeti",
+                "question_text": "Balkan Yarımadası'nın güneydoğu uzantısına ne ad verilir?",
+                "answer": "Trakya",
                 "answer_location": {
-                    "start": 26,
-                    "end": 45
+                    "start": 153,
+                    "end": 163
                 }
             },
             {
@@ -23,7 +23,7 @@
             },
             {
                 "question_id": "q3",
-                "question_text": "Cumhuriyet ne zaman ilan edilmiştir?",
+                "question_text": "Türkiye Büyük Millet Meclisi'nde Mustafa Kemal Atatürk'ün hazırladığı anayasa teklifi ile Türkiye Cumhuriyeti ne zaman ilan edilmiştir?",
                 "answer": "29 Ekim 1923",
                 "answer_location": {
                     "start": 3498,
@@ -47,7 +47,7 @@
             },
             {
                 "question_id": "q2",
-                "question_text": "Tesler'in esprisi ne der?",
+                "question_text": "Tesler'in teoremindeki yapay zeka ile ilgili espri ne der?",
                 "answer": "YZ henüz yapılmamış bir şeydir",
                 "answer_location": {
                     "start": 1179,
@@ -56,11 +56,11 @@
             },
             {
                 "question_id": "q3",
-                "question_text": "Karel Čapek'in tiyatro oyununun adı nedir?",
-                "answer": "R.U.R",
+                "question_text": "İnsanın kendisinden daha zeki, insan ötesi varlıklar meydana getirme düşünün ürünü nedir?",
+                "answer": "Yapay zeka",
                 "answer_location": {
-                    "start": 2260,
-                    "end": 2265
+                    "start": 1850,
+                    "end": 1861
                 }
             }
         ]
@@ -80,7 +80,7 @@
             },
             {
                 "question_id": "q2",
-                "question_text": "Sovyet başbakanının adı nedir?",
+                "question_text": "Eski Rus Sovyet başbakanının adı nedir?",
                 "answer": "Nikita Kruşçev",
                 "answer_location": {
                     "start": 1079,
@@ -104,7 +104,7 @@
         "questions": [
             {
                 "question_id": "q1",
-                "question_text": "Derbinin diğer adı nedir?",
+                "question_text": "İstanbul merkezli iki Türk spor kulübü arasında gerçekleşen büyük futbol derbisinin diğer adı nedir?",
                 "answer": "Kıtalararası Derbi",
                 "answer_location": {
                     "start": 49,
@@ -113,7 +113,7 @@
             },
             {
                 "question_id": "q2",
-                "question_text": "Galatasaray ne zaman kurulmuştur?",
+                "question_text": "Galatasaray spor kulübü ne zaman kurulmuştur?",
                 "answer": "1905",
                 "answer_location": {
                     "start": 423,
@@ -212,7 +212,7 @@
             },
             {
                 "question_id": "q2",
-                "question_text": "Felsefe kim ile başlamıştır?",
+                "question_text": "Felsefe hangi Antik Yunan matematikçi ile başlamıştır?",
                 "answer": "Thales",
                 "answer_location": {
                     "start": 559,
@@ -236,7 +236,7 @@
         "questions": [
             {
                 "question_id": "q1",
-                "question_text": "Kimin öncülüğünde kurulmuştur?",
+                "question_text": "Evrim Ağacı 5 Kasım 2010'da kimin öncülüğünde kurulmuştur?",
                 "answer": "Çağrı Mert Bakırcı",
                 "answer_location": {
                     "start": 44,
@@ -302,7 +302,7 @@
         "questions": [
             {
                 "question_id": "q1",
-                "question_text": "Ayaklanma kimin tarafından başlatılmıştır?",
+                "question_text": "Bağımsız ve birleşik bir Arap devleti yaratma amacıyla kalkışılan Arap İsyanı kimin tarafından başlatılmıştır?",
                 "answer": "Şerif Hüseyin bin Ali",
                 "answer_location": {
                     "start": 263,
@@ -320,7 +320,7 @@
             },
             {
                 "question_id": "q3",
-                "question_text": "Balfour Deklerasyonu ne zaman ilan edilmiştir?",
+                "question_text": "Filistin'de bir Yahudi yurdunun oluşturulacağı açıklanan Balfour Deklerasyonu ne zaman ilan edilmiştir?",
                 "answer": "1917",
                 "answer_location": {
                     "start": 3707,
@@ -368,7 +368,7 @@
         "questions": [
             {
                 "question_id": "q1",
-                "question_text": "Uygulamanın aylık kaç aktif kullanıcısı vardır?",
+                "question_text": "Discord uygulamasının aylık kaç aktif kullanıcısı vardır?",
                 "answer": "140 milyon",
                 "answer_location": {
                     "start": 174,
@@ -410,7 +410,7 @@
             },
             {
                 "question_id": "q2",
-                "question_text": "Tayvan Kökenli Jen Hsun Huang 1993'te hangi şirketi kurmuştur?",
+                "question_text": "Tayvan kökenli Jen Hsun Huang 1993 yılında hangi şirketi kurmuştur?",
                 "answer": "Nvidia",
                 "answer_location": {
                     "start": 1324,
@@ -485,7 +485,7 @@
             },
             {
                 "question_id": "q3",
-                "question_text": "Netflix aylık abonelik konseptini ilk ne zaman tanıttı?",
+                "question_text": "Amerikan medya hizmetleri sağlayıcısı ve yapım şirketi olan Netflix aylık abonelik konseptini ilk ne zaman tanıttı?",
                 "answer": "Eylül 1999'da",
                 "answer_location": {
                     "start": 3753,
@@ -518,7 +518,7 @@
             },
             {
                 "question_id": "q3",
-                "question_text": "Cumhuriyet Halk Partisi ilk hangi isimle kuruldu?",
+                "question_text": "Savaşın ardından Cumhuriyet Halk Partisi ilk hangi isimle kuruldu?",
                 "answer": "Halk Fırkası",
                 "answer_location": {
                     "start": 891,
@@ -542,7 +542,7 @@
             },
             {
                 "question_id": "q2",
-                "question_text": "Amcası nerede çalışıyordu?",
+                "question_text": "Ünlü İngiliz film yönetmeni Christopher Nolan'ın amcası nerede çalışıyordu?",
                 "answer": "NASA'da",
                 "answer_location": {
                     "start": 1257,
@@ -566,7 +566,7 @@
         "questions": [
             {
                 "question_id": "q1",
-                "question_text": "OpenAI nerede kurulmuştur?",
+                "question_text": "ABD merkezli yapay zeka araştırma şirketi OpenAI nerede kurulmuştur?",
                 "answer": "San Francisco'da",
                 "answer_location": {
                     "start": 168,
@@ -575,7 +575,7 @@
             },
             {
                 "question_id": "q2",
-                "question_text": "Musk yönetim kurulundan ne zaman istifa etmiştir?",
+                "question_text": "Musk yapay zeka şirketi OpenAI yönetim kurulundan ne zaman istifa etmiştir?",
                 "answer": "2018",
                 "answer_location": {
                     "start": 688,
@@ -599,7 +599,7 @@
         "questions": [
             {
                 "question_id": "q1",
-                "question_text": "Elon Reeve Musk ne zaman doğmuştur?",
+                "question_text": "Güney Afrikalı Elon Reeve Musk ne zaman doğmuştur?",
                 "answer": "28 Haziran 1971",
                 "answer_location": {
                     "start": 20,
@@ -608,7 +608,7 @@
             },
             {
                 "question_id": "q2",
-                "question_text": "Birlikte bir web yazılım şirketi kurduğu kardeşinin adı nedir?",
+                "question_text": "Elon Musk'ın birlikte bir web yazılım şirketi kurduğu kardeşinin adı nedir?",
                 "answer": "Kimbal Musk",
                 "answer_location": {
                     "start": 1303,
@@ -617,7 +617,7 @@
             },
             {
                 "question_id": "q3",
-                "question_text": "25 Nisan 2022 tarihinde kaç dolara satıldı?",
+                "question_text": "Twitter 25 Nisan 2022 tarihinde kaç dolara satıldı?",
                 "answer": "128.000",
                 "answer_location": {
                     "start": 3772,
@@ -632,7 +632,7 @@
         "questions": [
             {
                 "question_id": "q1",
-                "question_text": "Youtube hangi tarihte kuruldu?",
+                "question_text": "Google'a ait Amerikan sosyal medya platformu YouTube hangi tarihte kuruldu?",
                 "answer": "15 Şubat 2005'te",
                 "answer_location": {
                     "start": 139,
@@ -641,7 +641,7 @@
             },
             {
                 "question_id": "q2",
-                "question_text": "Yayınlanan ilk videonun ismi nedir?",
+                "question_text": "YouTube platformu üzerinde yayınlanan ilk videonun ismi nedir?",
                 "answer": "Me at the zoo",
                 "answer_location": {
                     "start": 3116,
@@ -650,7 +650,7 @@
             },
             {
                 "question_id": "q3",
-                "question_text": "Günlük yaklaşık kaç milyon video klip izlenmektedir?",
+                "question_text": "YouTube üzerinde günlük yaklaşık kaç milyon video klip izlenmektedir?",
                 "answer": "100 milyon",
                 "answer_location": {
                     "start": 5472,
@@ -665,7 +665,7 @@
         "questions": [
             {
                 "question_id": "q1",
-                "question_text": "Bugatti kimin tarafından kuruldu?",
+                "question_text": "Volkswagen AG yan kuruluşu olan İtalyan asıllı Bugatti kimin tarafından kuruldu?",
                 "answer": "Ettore Bugatti",
                 "answer_location": {
                     "start": 201,
@@ -782,7 +782,7 @@
             },
             {
                 "question_id": "q3",
-                "question_text": "Ölüm sebebi nedir?",
+                "question_text": "Adolf Hitler'in ölüm sebebi nedir?",
                 "answer": "İntihar etmesi.",
                 "answer_location": {
                     "start": 2504,
@@ -896,7 +896,7 @@
         "questions": [
             {
                 "question_id": "q1",
-                "question_text": "Bleach manga serisi hangi dergide ve ne zaman yayınlanmaya başlamıştır?",
+                "question_text": "Animeye de uyarlanmış olan Bleach'in manga serisi hangi dergide ve ne zaman yayınlanmaya başlamıştır?",
                 "answer": "Bleach manga serisi, Shueisha'nın Haftalık Shonen Jump dergisinde Ağustos 2001'de yayınlanmaya başlamıştır.",
                 "answer_location": {
                     "start": 1792,
@@ -914,7 +914,7 @@
             },
             {
                 "question_id": "q3",
-                "question_text": "BLEACH manga serisi Japonya'da toplamda kaç kopya satmıştır?",
+                "question_text": "Tite Kubo tarafından yazılan BLEACH manga serisi Japonya'da toplamda kaç kopya satmıştır?",
                 "answer": "BLEACH manga serisi Japonya'da toplamda 80 milyonun üzerinde satmıştır.",
                 "answer_location": {
                     "start": 394,
@@ -929,7 +929,7 @@
         "questions": [
             {
                 "question_id": "q1",
-                "question_text": "Mor ve Ötesi grubu ne zaman ve kimler tarafından kuruldu?",
+                "question_text": "Mor ve Ötesi grubu Ocak 1995'te kimler tarafından kuruldu?",
                 "answer": "Mor ve Ötesi, Ocak 1995'te Harun Tekin (vokal & gitar), Alper Tekin (bas), Derin Esmer (vokal & gitar) ve Kerem Kabadayı (davul) tarafından İstanbul'da kuruldu.",
                 "answer_location": {
                     "start": 1,
@@ -995,7 +995,7 @@
         "questions": [
             {
                 "question_id": "q1",
-                "question_text": "Araplar tarafından Bizans İmparatorluğu'ndan alındıktan sonra ne zamana kadar Arap hakimiyeti sürdü?",
+                "question_text": "İsrail bölgesinde Araplar tarafından Bizans İmparatorluğu'ndan alındıktan sonra ne zamana kadar Arap hakimiyeti sürdü?",
                 "answer": "Birinci Haçlı Seferi'ne kadar",
                 "answer_location": {
                     "start": 1791,
@@ -1004,7 +1004,7 @@
             },
             {
                 "question_id": "q2",
-                "question_text": "Bölgeyi 1517 yılında Memlükler'den kim aldı?",
+                "question_text": "İsrail bölgesini 1517 yılında Memlükler'den hangi imparatorluk aldı?",
                 "answer": "Osmanlı İmparatorluğu",
                 "answer_location": {
                     "start": 2049,
@@ -1013,7 +1013,7 @@
             },
             {
                 "question_id": "q3",
-                "question_text": "Modern zamanların en uzun işgali nedir?",
+                "question_text": "Kızıldeniz'in kuzey kıyısında gerçekleşen modern zamanların en uzun işgali nedir?",
                 "answer": "İsrail'in Filistin topraklarını işgali",
                 "answer_location": {
                     "start": 4171,
@@ -1037,7 +1037,7 @@
             },
             {
                 "question_id": "q2",
-                "question_text": "Avrupa Birliği'ndeki ülkelerden kaçı NATO üyesidir?",
+                "question_text": "Avrupa Birliği (AB) ülkelerinden kaçı NATO'nun da bir üyesidir?",
                 "answer": "yirmi biri",
                 "answer_location": {
                     "start": 1093,
