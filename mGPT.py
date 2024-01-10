@@ -104,16 +104,8 @@ for i, (predicted_doc_index, predicted_segment_index) in enumerate(predictions):
 print("Çay demleniyor.")
 
 precision = correct_predictions / total_questions
-recall = correct_predictions / total_questions
 mrr /= total_questions
 
-# F1 skoru hesaplama
-f1 = 2 * (precision * recall) / (precision +
-                                 recall) if (precision + recall) > 0 else 0
-
 print("Sonuçlar:\n")
-# Güncellenmiş sonuçları yazdırma
 print(f"Mean Reciprocal Rank (MRR): {mrr}")
 print(f"Precision: {precision}")
-print(f"Recall: {recall}")
-print(f"F1 Score: {f1}")
