@@ -1,7 +1,7 @@
 # Sorunun-Cevabı-Nerede
 - Projemizde soruların hangi dokümanlarda cevaplandığını bulabilmek için TF-IDF, BERT ve mGPT gibi modellerden soru ve metinlerin vektör temsillerini aldıktan sonra bunlar arasındaki kosinüs benzerliğini hesaplıyoruz.
 
-# Türkçe Soru-Cevap Veri Kümesi
+# Türkçe Soru Cevap Veri Kümesi
 ### Giriş
 Doğal dil işleme (NLP) alanındaki araştırmalar, özellikle farklı dillerdeki veri kümesi çeşitliliğinin artmasıyla son yıllarda büyük ilerlemeler kaydetti. Ancak, Türkçe gibi bazı dillerde herkese açık ve kaliteli soru-cevap metin veri kümelerinin eksikliği, dilimizde NLP uygulamalarının gelişimini sınırlamaktadır. Bu durum, araştırmamızda kullandığımız veri kümesini oluşturma sürecinde temel motivasyon kaynağımız oldu.
 
