@@ -37,7 +37,6 @@ for doc in data:
         cosine_similarities = cosine_similarity(question_vector, doc_vectors)
         most_similar_document_index = cosine_similarities.argmax()
         predicted_doc_id = all_documents[most_similar_document_index]['document_id']
-        # Burada question_id yerine yukarıda oluşturduğunuz question_id kullanılıyor
         predictions.append((question_id, predicted_doc_id))
 
 # Doğruluk ölçütlerini hesaplama
@@ -53,16 +52,9 @@ for question_id, predicted_doc_id in predictions:
     correct_predictions += int(correct_doc_id == predicted_doc_id)
 
 precision = correct_predictions / len(predictions)
-recall = correct_predictions / len(questions)  # tüm sorular için
 
 mrr /= len(questions)
-
-# F1 skoru hesaplama
-f1 = 2 * (precision * recall) / (precision +
-                                 recall) if (precision + recall) > 0 else 0
 
 # Güncellenmiş sonuçları yazdırma
 print(f"Mean Reciprocal Rank (MRR): {mrr}")
 print(f"Precision: {precision}")
-print(f"Recall: {recall}")
-print(f"F1 Score: {f1}")
