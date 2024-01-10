@@ -2,7 +2,6 @@ from transformers import GPT2Model, GPT2Tokenizer
 from sklearn.metrics.pairwise import cosine_similarity
 import torch
 import json
-import numpy as np
 
 print("Model yükleniyor...")
 
