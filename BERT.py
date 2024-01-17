@@ -3,10 +3,12 @@ from sklearn.metrics.pairwise import cosine_similarity
 import torch
 import json
 
+print("Model yükleniyor...")
+
 # Türkçe BERT modelini ve tokenizer'ı yükleyin
 model_name = 'dbmdz/bert-base-turkish-uncased'
 tokenizer = BertTokenizer.from_pretrained(model_name)
-model = BertModel.from_pretrained(model_name)
+model = BertModel.from_pretrained(model_name, output_hidden_states=True)
 
 i = 1
 
@@ -57,20 +59,21 @@ question_embeddings = [get_bert_embedding(q['question_text'], tokenizer, model)
 
 print("Kosinüs benzerliği hesaplanıyor...")
 
-# Kosinüs benzerliği hesaplama ve tahminlerin saklanması
+# Kosinüs benzerliği hesaplama ve sıralı tahminlerin saklanması
 predictions = []
 for question_emb in question_embeddings:
-    max_similarity = -1
-    most_similar_doc_index = -1
-    most_similar_segment_index = -1
+    similarities = []
     for doc_index, segments in enumerate(doc_segments_embeddings):
         for segment_index, segment_emb in enumerate(segments):
             similarity = cosine_similarity([question_emb], [segment_emb])[0][0]
-            if similarity > max_similarity:
-                max_similarity = similarity
-                most_similar_doc_index = doc_index
-                most_similar_segment_index = segment_index
-    predictions.append((most_similar_doc_index, most_similar_segment_index))
+            similarities.append((similarity, doc_index, segment_index))
+
+    # Benzerliklere göre sırala ve en yüksek skorluları seç
+    sorted_similarities = sorted(
+        similarities, key=lambda x: x[0], reverse=True)
+    predictions.append(sorted_similarities)
+
+print("Performans kriterleri hesaplanıyor...")
 
 # Performans kriterlerini hesaplama
 mrr = 0
@@ -78,35 +81,38 @@ precision = 0
 correct_predictions = 0
 total_questions = len(question_embeddings)  # Toplam soru sayısı
 
-print("Performans kriterleri hesaplanıyor...")
-
-for i, (predicted_doc_index, predicted_segment_index) in enumerate(predictions):
-    # Gerçek döküman ID'sini al
-    question_index = i  # Soru indexi
-    doc = all_documents[question_index //
-                        len(data[0]['questions'])]  # İlgili dökümanı bul
+# Precision için yalnızca en yüksek skorlu tahminleri değerlendir
+for i, sorted_sims in enumerate(predictions):
+    question_index = i
+    doc = all_documents[question_index // len(data[0]['questions'])]
     correct_doc_id = doc['document_id']
 
-    # Tahmin edilen dökümanın ID'sini al
+    # En yüksek skorlu tahmin
+    predicted_doc_index = sorted_sims[0][1]
     predicted_doc_id = all_documents[predicted_doc_index]['document_id']
 
-    # Doğruluk ve MRR hesaplama
-    correct_predictions += int(correct_doc_id == predicted_doc_id)
+    # Precision hesaplama
     if correct_doc_id == predicted_doc_id:
-        # MRR için sıralama (rank) hesaplama (Segment düzeyinde değil, döküman düzeyinde yapılır)
-        rank = 1 / (question_index % len(data[0]['questions']) + 1)
-        mrr += rank
+        correct_predictions += 1
 
-    print("Predicted: ", predicted_doc_id)
-    print("Real: ", correct_doc_id)
+# MRR için tüm tahminlerin sıralamasını dikkate al
+mrr = 0
+for i, sorted_sims in enumerate(predictions):
+    question_index = i
+    doc = all_documents[question_index // len(data[0]['questions'])]
+    correct_doc_id = doc['document_id']
 
-print("Çay demleniyor.")
+    # MRR hesaplama
+    for rank, (similarity, doc_index, _) in enumerate(sorted_sims, start=1):
+        predicted_doc_id = all_documents[doc_index]['document_id']
+        if correct_doc_id == predicted_doc_id:
+            mrr += 1 / rank
+            break
 
 precision = correct_predictions / total_questions
 mrr /= total_questions
 
-
 print("Sonuçlar:\n")
-# Güncellenmiş sonuçları yazdırma
 print(f"Mean Reciprocal Rank (MRR): {mrr}")
-print(f"Precision: {precision}")
+precision_percentage = precision * 100
+print(f"Precision: %{precision_percentage}")

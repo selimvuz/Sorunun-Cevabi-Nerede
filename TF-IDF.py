@@ -26,34 +26,42 @@ document_ids = {doc['document_id']: i for i, doc in enumerate(all_documents)}
 question_to_doc_id = {f"{doc['document_id']}_{q['question_id']}": doc['document_id']
                       for doc in data for q in doc.get('questions', [])}
 
-# Kosinüs benzerliği hesaplama ve tahminlerin saklanması
+# Kosinüs benzerliği hesaplama ve sıralı tahminlerin saklanması
 predictions = []
 for doc in data:
     doc_id = doc['document_id']
     for q in doc.get('questions', []):
-        question_id = f"{doc_id}_{q['question_id']}"  # Bu satırı ekleyin
+        question_id = f"{doc_id}_{q['question_id']}"
         question_vector = vectorizer.transform([q['question_text'].lower()])
-        cosine_similarities = cosine_similarity(question_vector, doc_vectors)
-        most_similar_document_index = cosine_similarities.argmax()
-        predicted_doc_id = all_documents[most_similar_document_index]['document_id']
-        predictions.append((question_id, predicted_doc_id))
+        cosine_similarities = cosine_similarity(
+            question_vector, doc_vectors).flatten()
 
-# Doğruluk ölçütlerini hesaplama
+        # Benzerliklere göre sıralayın
+        sorted_indices = cosine_similarities.argsort()[::-1]
+        predictions.append((question_id, sorted_indices))
+
+# Performans kriterlerini hesaplama
 mrr = 0
-precision = 0
 correct_predictions = 0
-for question_id, predicted_doc_id in predictions:
+
+for question_id, sorted_indices in predictions:
     correct_doc_id = question_to_doc_id[question_id]
     correct_index = document_ids[correct_doc_id]
-    predicted_index = document_ids[predicted_doc_id]
-    rank = 1 / (predicted_index + 1)
-    mrr += rank
-    correct_predictions += int(correct_doc_id == predicted_doc_id)
+
+    # MRR hesaplama
+    rank = list(sorted_indices).index(correct_index) + 1
+    mrr += 1 / rank
+
+    # Precision hesaplama
+    predicted_doc_id = all_documents[sorted_indices[0]]['document_id']
+    if correct_doc_id == predicted_doc_id:
+        correct_predictions += 1
 
 precision = correct_predictions / len(predictions)
-
 mrr /= len(questions)
 
-# Güncellenmiş sonuçları yazdırma
+# Sonuçları yazdırma
+print("Sonuçlar:\n")
 print(f"Mean Reciprocal Rank (MRR): {mrr}")
-print(f"Precision: {precision}")
+precision_percentage = precision * 100
+print(f"Precision: %{precision_percentage}")
