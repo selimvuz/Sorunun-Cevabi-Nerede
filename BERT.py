@@ -39,7 +39,7 @@ with open('Datasets/extra_docs.json', 'r', encoding='utf-8') as file:
     extra_documents = json.load(file)
 
 # Tüm dokümanları birleştirin
-all_documents = data + extra_documents
+all_documents = data # + extra_documents
 
 print("Metinler vektör temsillerine dönüştürülüyor...")
 
